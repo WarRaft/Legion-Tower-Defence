@@ -1,0 +1,2 @@
+EscMenuEditBoxBorder=UI\Widgets\EscMenu\Human\editbox-border.blp
+EscMenuEditBoxBackground=UI\Widgets\EscMenu\Human\editbox-background.blp
