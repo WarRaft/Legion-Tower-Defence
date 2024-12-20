@@ -1,0 +1,680 @@
+[I000]
+Art=ReplaceableTextures\CommandButtons\BTNSteelMelee.blp
+Description="+150 attack, +30% attack speed, +10000hp, +6 armor."
+Name=Sword of Pwnage
+Tip=|cffFFcc00Sword of Pwnage|r
+Ubertip="An incredibly powerful sword given to a King to compensate for an empty team. Provides +150 damage, +30% attack speed, +10000 hit points, and +6 armor."
+
+[I001]
+Art=ReplaceableTextures\CommandButtons\BTNInvulnerable.blp
+Description=Unkillable
+Name=Unkillable
+Tip=|cffFFcc00Unkillable|r
+Ubertip=This King is unkillable.|n|n+1000 hp regen|n+100% attack speed|n+1000 damage|n+100 armor
+
+[I002]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Permanently increases Agility.
+Hotkey=A
+Name=Tome of 400 hp
+Tip=Purchase Tome of |cffffcc00A|rgility
+Ubertip=Permanently increases the Agility of the Hero by 1 when used.
+
+[I003]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Permanently increases Agility.
+Hotkey=A
+Name=Tome of 4 Damage
+Tip=Purchase Tome of |cffffcc00A|rgility
+Ubertip=Permanently increases the Agility of the Hero by 1 when used.
+
+[afac]
+Art=ReplaceableTextures\CommandButtons\BTNAlleriaFlute.blp
+Description="Увеличение урона, наносимого близстоящими дружественными войсками в дальнем бою."
+Name=Флейта Меткости
+Tip=Флейта Меткости
+Ubertip="Увеличение урона, наносимого близстоящими войсками в дальнем бою, на 10%.|nПодавляет эффект ''Ауры меткости''."
+
+[ajen]
+Art=ReplaceableTextures\CommandButtons\BTNJanggo.blp
+Description=Повышение скорости перемещения и скорости боя у дружественных войск.
+Name=Чаша Выносливости
+Tip=Чаша Выносливости
+Ubertip=Повышение скорости перемещения и боя у героя и окружающих его дружественных войск.|nПодавляет эффект ''Ауры выносливости''.
+
+[ankh]
+Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
+Description=Воскрешение героя в случае|n гибели.
+Hotkey=A
+Name=Крест Перерождения
+Tip=Крест Перерождения (|cffffcc00A|r)
+Ubertip=Автоматическое воскрешение героя с 500 ед. здоровья в случае его гибели.
+
+[belv]
+Art=ReplaceableTextures\CommandButtons\BTNBoots.blp
+Description=Повышение ловкости героя.
+Hotkey=E
+Name=Кель-таласские сапоги
+Tip=Кель-таласские сапоги (|cffffcc00E|r)
+Ubertip=Повышение ловкости героя на 6 ед.
+
+[bgst]
+Art=ReplaceableTextures\CommandButtons\BTNBelt.blp
+Description=Увеличение силы героя.
+Hotkey=B
+Name=Пояс Богатыря (+6)
+Tip=Пояс Богатыря (+6) (|cffffcc00B|r)
+Ubertip=Повышение силы героя на 6 ед.
+
+[brac]
+Art=ReplaceableTextures\CommandButtons\BTNRunedBracers.blp
+Description="Уменьшение урона, наносимого герою заклинаниями."
+Hotkey=R
+Name=Рунные браслеты
+Tip=Рунные браслеты (|cffffcc00R|r)
+Ubertip="Уменьшение урона, наносимого герою заклинаниями, на 33%."
+
+[bspd]
+Art=ReplaceableTextures\CommandButtons\BTNBootsOfSpeed.blp
+Description=Ускорение перемещения героя.
+Hotkey=S
+Name=Сапоги-скороходы
+Tip=Сапоги-скороходы (|cffffcc00S|r)
+Ubertip=Повышение скорости перемещения героя.
+
+[ciri]
+Art=ReplaceableTextures\CommandButtons\BTNRobeOfTheMagi.blp
+Description=Повышение разума героя.
+Hotkey=R
+Name=Одеяние мага (+6)
+Tip=Одеяние мага (|cffffcc00R|r)
+Ubertip=Повышение разума героя на 6 ед.
+
+[ckng]
+Art=ReplaceableTextures\CommandButtons\BTNHelmutPurple.blp
+Description="Повышение силы, разума и ловкости героя на 5 ед."
+Hotkey=K
+Name=Королевская корона (+5)
+Tip=Королевская корона (+5) (|cffffcc00K|r)
+Ubertip="Повышение силы, разума и ловкости героя на 5 ед."
+
+[clfm]
+Art=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
+Description="Героя окружают языки пламени, обжигающие противников."
+Name=Огненный плащ
+Tip=Огненный плащ
+Ubertip="Героя окутывает пламя, наносящее его противникам по 10 ед. урона в секунду.|nПодавляет эффект ''Жара Преисподней''."
+
+[clsd]
+Art=ReplaceableTextures\CommandButtons\BTNCloak.blp
+Description=Невидимость по ночам.
+Hotkey=C
+Name=Плащ Теней
+Tip=Плащ Теней (|cffffcc00C|r)
+Ubertip="Герой, носящий этот плащ, становится невидимым в ночное время. При нападении на противника, а также применении способности или заклинания, герой вновь становится видимым."
+
+[cnob]
+Art=ReplaceableTextures\CommandButtons\BTNCirclet.blp
+Description="Повышение ловкости, силы и разума героя на 2 ед."
+Hotkey=C
+Name=Венец Благородства
+Tip=Венец Благородства (|cffffcc00C|r)
+Ubertip="Повышение силы, ловкости и разума героя на 2 ед."
+
+[crys]
+Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
+Description=Разведка определенных областей карты.
+Hotkey=C
+Name=Хрустальный шар
+Tip=Хрустальный шар (|cffffcc00C|r)
+Ubertip=Очищение указанной области карты от Тумана войны и обнаружение невидимых боевых единиц. |nВремя действия - 10 сек.
+
+[desc]
+Art=ReplaceableTextures\CommandButtons\BTNDaggerOfEscape.blp
+Description=Телепортация героя на короткие расстояния.
+Hotkey=E
+Name=Кинжал мага
+Tip=Кинжал мага (|cffffcc00E|r)
+Ubertip=Этот кинжал позволяет герою телепортироваться на короткие расстояния.
+
+[evtl]
+Art=ReplaceableTextures\CommandButtons\BTNTalisman.blp
+Description=Герой получает шанс уклониться от атаки противника.
+Name=Талисман Защиты
+Tip=Талисман Защиты
+Ubertip=Герой получает 15% шанс уклониться от атаки противника.|nПодавляет эффект способностей ''Змеиная ловкость'' и ''Пьяный мастер''.
+
+[fgdg]
+Art=ReplaceableTextures\CommandButtons\BTNDoomGuard.blp
+Description=Вызов Привратника Ада.
+Name=Статуэтка демона
+Tip=Статуэтка демона
+Ubertip="Вызов Привратника Ада, сражающегося на стороне героя.|nВремя действия - 180 сек."
+
+[fgfh]
+Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
+Description=Вызов Адского охотника.
+Name=Ошейник с шипами
+Tip=Ошейник с шипами
+Ubertip="Вызов Адского охотника , сражающегося на стороне героя.|nВремя действия - 180 сек."
+
+[fgrd]
+Art=ReplaceableTextures\CommandButtons\BTNRedDragon.blp
+Description=Вызов красного дракона.
+Hotkey=E
+Name=Яйцо дракона
+Tip=Яйцо дракона (|cffffcc00E|r)
+Ubertip="Вызов красного дракона, сражающегося на стороне героя.|nВремя действия - 180 сек."
+
+[fgrg]
+Art=ReplaceableTextures\CommandButtons\BTNRockGolem.blp
+Description=Вызов каменного голема.
+Name=Каменный талисман
+Tip=Каменный талисман
+Ubertip="Вызов каменного голема, сражающегося на вашей стороне.|nВремя действия - 180 сек."
+
+[fgsk]
+Art=ReplaceableTextures\CommandButtons\BTNBookOfTheDead.blp
+Description=Вызов скелетов.
+Name=Книга Мертвых
+Tip=Книга Мертвых
+Ubertip=Вызов 4 обычных скелетов и 4 скелетов-лучников.|nВремя действия - 120 сек.
+
+[gcel]
+Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
+Description=Увеличение скорости боя.
+Name=Перчатки Скорости
+Tip=Перчатки Скорости
+Ubertip=Увеличение скорости боя героя на 15%.
+
+[hcun]
+Art=ReplaceableTextures\CommandButtons\BTNHoodOfCunning.blp
+Description=Повышение ловкости и разума героя.
+Name=Капюшон Хитрости
+Tip=Капюшон Хитрости
+Ubertip=Повышение ловкости и разума героя на 4 ед.
+
+[hlst]
+Art=ReplaceableTextures\CommandButtons\BTNHealthStone.blp
+Description="Повышение скорости восстановления здоровья. Будучи проглоченным, камень мгновенно пополняет запас здоровья."
+Name=Камень Здоровья
+Tip=Камень Здоровья
+Ubertip="Повышение скорости восстановления здоровья героя на 1 ед. в секунду. Будучи проглоченным, восстанавливает 500 ед. здоровья."
+
+[hval]
+Art=ReplaceableTextures\CommandButtons\BTNHelmOfValor.blp
+Description=Повышение силы и ловкости|n героя.
+Name=Шлем Доблести
+Tip=Шлем Доблести
+Ubertip=Повышение силы и ловкости героя на 4 ед.
+
+[infs]
+Art=ReplaceableTextures\CommandButtons\BTNInfernalStone.blp
+Description=Вызов огненного голема.
+Name=Камень Преисподней
+Tip=Камень Преисподней
+Ubertip="С неба низвергается огненный голем, наносящий 50 ед. урона и оглушающий наземных противников на 4 сек. Время действия - 180 сек."
+
+[kpin]
+Art=ReplaceableTextures\CommandButtons\BTNPipeOfInsight.blp
+Description=Повышение скорости регенерации маны у близстоящих войск.
+Name=Флейта Прозрения
+Tip=Флейта Прозрения
+Ubertip=Повышение скорости регенерации маны героя и окружающих его дружественных войск.|nПодавляет эффект ''Чародейской ауры''.
+
+[lgdh]
+Art=ReplaceableTextures\CommandButtons\BTNHornOfDoom.blp
+Description="Повышение скорости перемещения и восстановления здоровья у дружественных войск, находящихся поблизости."
+Name=Труба Легиона
+Tip=Труба Легиона
+Ubertip=Повышение скорости перемещения и восстановления здоровья у героя и окружающих его войск.|nПодавляет эффект ''Ауры смерти''.
+
+[lhst]
+Art=ReplaceableTextures\CommandButtons\BTNLionHorn.blp
+Description=Защитная аура вокруг героя.
+Name=Рог Ветров
+Tip=Рог Ветров
+Ubertip=Повышение защиты героя и окружающих его войск на 1 ед.|nПодавляет эффект ''Доспехов веры''.
+
+[manh]
+Art=ReplaceableTextures\CommandButtons\BTNManual.blp
+Description=Увеличение запаса здоровья на 50 ед. Используется один раз.
+Name=Медицинский трактат
+Tip=Медицинский трактат
+Ubertip=Увеличение максимального запаса здоровья героя на 50 ед. Используется один раз.
+
+[mcou]
+Art=ReplaceableTextures\CommandButtons\BTNMedalionOfCourage.blp
+Description=Повышение силы и разума героя.
+Name=Медаль Храбрости
+Tip=Медаль Храбрости
+Ubertip=Повышение силы и разума героя на 4 ед.
+
+[mnst]
+Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
+Description="Повышение скорости регенерации маны. Будучи проглоченным, камень мгновенно пополняет запас маны."
+Name=Камень Маны
+Tip=Камень Маны
+Ubertip="Повышение скорости регенерации маны героя на 25%. Будучи проглоченным, восстанавливает 300 ед. маны."
+
+[modt]
+Art=ReplaceableTextures\CommandButtons\BTNMaskOfDeath.blp
+Description=Маска наделяет героя способностью красть здоровье у противников.
+Name=Маска смерти
+Tip=Маска смерти
+Ubertip="50% урона, нанесенного героем, превращается в его здоровье."
+
+[odef]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Description="Противники, убитые героем, восстают из мертвых и служат ему."
+Hotkey=B
+Name=Сфера Тьмы
+Tip=Сфера Тьмы (|cffffcc00B|r)
+Ubertip="Повышение силы атаки героя на 6 ед. Кроме того, герой приобретает способность атаковать воздушные цели, а каждый убитый им противник восстает из мертвых и сражается на его стороне в течение 80 сек."
+
+[ofro]
+Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
+Description=При атаке герой замораживает противников.
+Hotkey=R
+Name=Сфера Льда
+Tip=Сфера Льда (|cffffcc00R|r)
+Ubertip="При каждой атаке герой замораживает противника, нанося ему 5 ед. урона и снижая скорость его перемещения и боя. Кроме того, герой получает возможность атаковать воздушные цели."
+
+[pdiv]
+Art=ReplaceableTextures\CommandButtons\BTNPotionOfDivinity.blp
+Description=Временная неуязвимость героя.
+Hotkey=D
+Name=Эликсир Неуязвимости
+Tip=Эликсир Неуязвимости (|cffffcc00D|r)
+Ubertip="Выпив это зелье, герой на 25 сек. становится неуязвимым для оружия и заклинаний."
+
+[penr]
+Art=ReplaceableTextures\CommandButtons\BTNPendantOfEnergy.blp
+Description=Дополнительная мана.
+Name=Амулет Энергии
+Tip=Амулет Энергии
+Ubertip=Увеличение запаса маны героя на 150 ед.
+
+[pghe]
+Art=ReplaceableTextures\CommandButtons\BTNPotionGreen.blp
+Description=Восстановление здоровья.
+Hotkey=R
+Name=Целебное зелье
+Tip=Целебное зелье (|cffffcc00R|r)
+Ubertip=Восстановление 500 ед. здоровья.
+
+[pgma]
+Art=ReplaceableTextures\CommandButtons\BTNPotionBlueBig.blp
+Description=Восстановление маны.
+Hotkey=M
+Name=Эликсир Маны
+Tip=Эликсир Маны (|cffffcc00M|r)
+Ubertip=Восстановление 300 ед. маны.
+
+[pmna]
+Art=ReplaceableTextures\CommandButtons\BTNPendantOfMana.blp
+Description=Дополнительная мана.
+Name=Амулет Маны
+Tip=Амулет Маны
+Ubertip=Увеличение запаса маны героя на 250 ед.
+
+[pnvl]
+Art=ReplaceableTextures\CommandButtons\BTNLesserInvulneralbility.blp
+Buttonpos=2,2
+Description=Временная неуязвимость героя.
+Hotkey=N
+Name=Отвар Неуязвимости
+Tip=Отвар Неуязвимости (|cffffcc00N|r)
+Ubertip="Выпив это зелье, герой на 7 сек. становится неуязвимым для оружия и заклинаний."
+
+[pnvu]
+Art=ReplaceableTextures\CommandButtons\BTNGreaterInvulneralbility.blp
+Description=Временная неуязвимость героя.
+Hotkey=I
+Name=Зелье Неуязвимости
+Tip=Зелье Неуязвимости (|cffffcc00I|r)
+Ubertip="Выпив это зелье, герой на 15 сек. становится неуязвимым для оружия и заклинаний."
+
+[pomn]
+Art=ReplaceableTextures\CommandButtons\BTNPotionOfOmniscience.blp
+Description=Разведка всей карты.
+Hotkey=O
+Name=Зелье Всевидения
+Tip=Зелье Всевидения (|cffffcc00O|r)
+Ubertip=Очищение всей карты от Тумана войны на 5 сек.
+
+[pres]
+Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
+Description=Восстановление здоровья и маны.
+Hotkey=R
+Name=Эликсир Возрождения
+Tip=Эликсир Возрождения (|cffffcc00R|r)
+Ubertip=Восстановление 500 ед. здоровья и 200 ед. маны героя.
+
+[prvt]
+Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
+Buttonpos=1
+Description=Увеличение запаса здоровья.
+Hotkey=V
+Name=Талисман Здоровья
+Tip=Талисман Здоровья (|cffffcc00V|r)
+Ubertip=Увеличение запаса здоровья героя на 150 ед.
+
+[rag1]
+Art=ReplaceableTextures\CommandButtons\BTNSlippersOfAgility.blp
+Description=Повышение ловкости героя на 3 ед.
+Hotkey=A
+Name=Туфли Ловкости (+3)
+Tip=Туфли Ловкости (+3) (|cffffcc00A|r)
+Ubertip=Повышение ловкости героя на 3 ед.
+
+[rat6]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Повышение силы атаки на 6 ед.
+Name=Боевые когти (+6)
+Tip=Боевые когти (+6)
+Ubertip=Повышение силы атаки героя на 6 ед.
+
+[rat9]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Повышение силы атаки на 9 ед.
+Hotkey=C
+Name=Боевые когти (+9)
+Tip=Боевые когти (+9) (|cffffcc00C|r)
+Ubertip=Повышение силы атаки героя на 6 ед.
+
+[ratc]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Повышение силы атаки на 12 ед.
+Name=Боевые когти (+12)
+Tip=Боевые когти (+12)
+Ubertip=Повышение силы атаки героя на 12 ед.
+
+[ratf]
+Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
+Description=Повышение силы атаки на 15 ед.
+Name=Боевые когти (+15)
+Tip=Боевые когти (+15)
+Ubertip=Повышение силы атаки героя на 15 ед.
+
+[rde1]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Повышение защиты на 2 ед.
+Hotkey=2
+Name=Кольцо Защиты (+2)
+Tip=Кольцо Защиты (+|cffffcc002|r)
+Ubertip=Повышение защиты героя на 2 ед.
+
+[rde2]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Повышение защиты на 3 ед.
+Hotkey=3
+Name=Кольцо Защиты (+3)
+Tip=Кольцо Защиты (+|cffffcc003|r)
+Ubertip=Повышение защиты героя на 3 ед.
+
+[rde3]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Повышение защиты на 4 ед.
+Hotkey=4
+Name=Кольцо Защиты (+4)
+Tip=Кольцо Защиты (+|cffffcc004|r)
+Ubertip=Повышение защиты героя на 4 ед.
+
+[rde4]
+Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
+Description=Повышение защиты на 5 ед.
+Hotkey=5
+Name=Кольцо Защиты (+5)
+Tip=Кольцо Защиты (+|cffffcc005|r)
+Ubertip=Повышение защиты героя на 5 ед.
+
+[rej3]
+Art=ReplaceableTextures\CommandButtons\BTNRejuvPotion.blp
+Description=Восстановление здоровья и маны.
+Hotkey=R
+Name=Зелье Омоложения
+Tip=Зелье Омоложения (|cffffcc00R|r)
+Ubertip=Восстановление 200 ед. здоровья и 75 ед. маны героя за 30 сек.
+
+[rhth]
+Art=ReplaceableTextures\CommandButtons\BTNPeriapt1.blp
+Description=Увеличение запаса здоровья.
+Hotkey=H
+Name=Камень Жизни
+Tip=Камень Жизни (|cffffcc00H|r)
+Ubertip=Увеличение запаса здоровья на 300 ед.
+
+[rin1]
+Art=ReplaceableTextures\CommandButtons\BTNMantleOfIntelligence.blp
+Description=Повышение разума на 3 ед.
+Hotkey=I
+Name=Мантия ученого (+3)
+Tip=Мантия ученого (+3) (|cffffcc00I|r)
+Ubertip=Повышение разума героя на 3 ед.
+
+[rlif]
+Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
+Description=Ускорение восстановления здоровья.
+Hotkey=R
+Name=Кольцо Регенерации
+Tip=New eng: Tip=Кольцо Регенерации (|cffffcc00R|r)
+Ubertip=Повышение скорости восстановления здоровья на 2 ед. в секунду.
+
+[rst1]
+Art=ReplaceableTextures\CommandButtons\BTNGauntletsOfOgrePower.blp
+Description=Повышение силы героя на 3 ед.
+Hotkey=S
+Name=Рукавицы огра (+3)
+Tip=Рукавицы огра (+3) (|cffffcc00S|r)
+Ubertip=Повышение силы героя на 3 ед.
+
+[rwiz]
+Art=ReplaceableTextures\CommandButtons\BTNSobiMask.blp
+Buttonpos=2
+Description=Ускорение восстановления маны.
+Hotkey=B
+Name=Маска Соби 
+Tip=Маска Соби (|cffffcc00B|r)
+Ubertip=Повышение скорости регенерации маны на 50%.
+
+[sand]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollPurple.blp
+Description=Временное оживление мертвецов.
+Name=Свиток Гальванизации
+Tip=Свиток Гальванизации
+Ubertip="Оживление 6 трупов, находящихся поблизости, на 40 сек."
+
+[sbch]
+Art=ReplaceableTextures\CommandButtons\BTNBoneChimes.blp
+Description=Близстоящие воины крадут здоровье противника при каждой атаке.
+Name=Костяные колокольчики
+Tip=Костяные колокольчики
+Ubertip="15% урона, нанесенного противнику героем или одним из окружающих его воинов, превращается в здоровье.|nПодавляют эффект ''Вампиризма''."
+
+[shar]
+Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
+Description=Вызов призрачного рыцаря.
+Name=Осколок льда
+Tip=Осколок льда
+Ubertip="Вызов призрачного рыцаря, сражающегося на вашей стороне.|n|nВремя действия - 180 сек."
+
+[spsh]
+Art=ReplaceableTextures\CommandButtons\BTNSpellShieldAmulet.blp
+Description=Рассеивание заклинаний противника.
+Hotkey=A
+Name=Амулет Защиты
+Tip=Амулет Защиты (|cffffcc00A|r)
+Ubertip="Нейтрализация вредоносных заклинаний, направленных на героя. Время перезарядки - 40 сек."
+
+[sres]
+Art=ReplaceableTextures\CommandButtons\BTNScrollOfHealing.blp
+Description="Восстановление здоровья и маны у войск, находящихся рядом."
+Hotkey=R
+Name=Свиток Возрождения
+Tip=Свиток Возрождения (|cffffcc00R|r)
+Ubertip="Восстановление 300 ед. здоровья и 150 ед. маны у всех дружественных войск, находящихся рядом с героем."
+
+[sror]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollGreen.blp
+Description="Увеличение урона, наносимого указанным воином."
+Name=Свиток Зверя
+Tip=Свиток Зверя
+Ubertip="Увеличение урона, наносимого дружественными войсками, на 25%. Время действия - 45 сек."
+
+[srrc]
+Art=ReplaceableTextures\CommandButtons\BTNSnazzyScroll.blp
+Description=Воскрешение павших бойцов вашей армии.
+Name=Свиток Воскрешения
+Tip=Свиток Воскрешения
+Ubertip="Воскрешение 6 павших дружественных воинов, тела которых лежат неподалеку."
+
+[ssil]
+Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
+Description=Лишение противников возможности пользоваться магией.
+Hotkey=E
+Name=Посох Безмолвия
+Tip=Посох Безмолвия (|cffffcc00E|r)
+Ubertip="Противники, оказавшиеся в области действия этого посоха, теряют возможность применять заклинания."
+
+[tdex]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Повышение ловкости героя.
+Hotkey=A
+Name=Книга Ловкости
+Tip=Книга Ловкости (|cffffcc00A|r)
+Ubertip=Повышение ловкости героя на 1 ед.
+
+[tdx2]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Повышение ловкости героя.
+Name=Книга Ловкости (+2)
+Tip=Книга Ловкости (+2)
+Ubertip=Повышение ловкости героя на 2 ед. Используется один раз.
+
+[texp]
+Art=ReplaceableTextures\CommandButtons\BTNTomeBrown.blp
+Description=Дополнительный опыт.
+Hotkey=E
+Name=Книга Опыта
+Tip=Книга Опыта (|cffffcc00E|r)
+Ubertip=Повышение опыта героя на 100 ед.
+
+[tin2]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Повышение разума героя.
+Name=Книга Мудрости (+2)
+Tip=Книга Мудрости (+2)
+Ubertip=Повышение разума героя на 2 ед. Используется один раз.
+
+[tint]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Повышение разума героя.
+Hotkey=T
+Name=Книга Мудрости
+Tip=Книга Мудрости (|cffffcc00T|r)
+Ubertip=Повышение разума героя на 1 ед. Используется один раз.
+
+[tkno]
+Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
+Description=Повышение уровня героя.
+Hotkey=P
+Name=Книга Знаний
+Tip=Книга Знаний (|cffffcc00P|r)
+Ubertip=Повышение уровня героя на 1 ед.
+
+[totw]
+Art=ReplaceableTextures\CommandButtons\BTNStone.blp
+Description=Вызов беорнов.
+Name=Талисман Леса
+Tip=Талисман Леса
+Ubertip="С помощью этого камня вы можете вызывать беорнов, готовых сражаться на вашей стороне.|nВремя действия - 180 сек."
+
+[tpow]
+Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
+Description="Повышение силы, ловкости и разума героя. Используется один раз."
+Name=Книга Знаний
+Tip=Книга Знаний
+Ubertip="Повышение силы, ловкости и разума героя на 1 ед. Используется один раз."
+
+[tst2]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Повышение силы героя. Используется один раз.
+Name=Книга Силы (+2)
+Tip=Книга Силы (+2)
+Ubertip=Повышение силы героя на 2 ед. Используется один раз.
+
+[tstr]
+Art=ReplaceableTextures\CommandButtons\BTNTome.blp
+Description=Повышение силы героя. Используется один раз.
+Hotkey=S
+Name=Книга Силы
+Tip=Книга Силы (|cffffcc00S|r)
+Ubertip=Повышение силы героя на 1 ед. Используется один раз.
+
+[ward]
+Art=ReplaceableTextures\CommandButtons\BTNDrum.blp
+Description="Повышение силы атаки дружественных войск, находящихся поблизости."
+Hotkey=W
+Name=Боевые барабаны орков
+Tip=Боевые барабаны орков (|cffffcc00W|r)
+Ubertip="Повышение силы атаки дружественных войск, находящихся рядом с героем, на 10%. |nПодавляет эффект способности ''Боевой дух''."
+
+[wcyc]
+Art=ReplaceableTextures\CommandButtons\BTNWandOfCyclone.blp
+Description=Возможность применять заклинание ''Смерч''.
+Name=Жезл Ветров
+Tip=Жезл Ветров
+Ubertip="Позволяет герою применять заклинание ''Смерч'', вызывающее вихрь, который подбрасывает противника в воздух.|nВремя действия - 20 сек."
+
+[whwd]
+Art=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
+Description=Вызов духа-целителя.
+Name=Духи-целители
+Tip=Духи-целители
+Ubertip="Вызов духа, исцеляющего дружественные войска. Время действия - 30 сек."
+
+[wild]
+Art=ReplaceableTextures\CommandButtons\BTNAmuletOftheWild.blp
+Description=Вызов беорна.
+Name=Амулет Леса
+Tip=Амулет Леса
+Ubertip="Вызов беорна, сражающегося на вашей стороне.|n|nВремя действия - 180 сек."
+
+[will]
+Art=ReplaceableTextures\CommandButtons\BTNWand.blp
+Description=Создание иллюзорного двойника.
+Hotkey=I
+Name=Жезл Иллюзий
+Tip=Жезл Иллюзий (|cffffcc00I|r)
+Ubertip=Создание иллюзорного двойника воина. Двойник не способен атаковать и исчезает спустя 60 сек. Противник наносит ему  2-кратный урон.
+
+[wlsd]
+Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
+Description=Позволяет применять заклинание ''Щит молний''.
+Name=Жезл Молний
+Tip=Жезл Молний
+Ubertip="Позволяет применять заклинание ''Щит молний''. Воина окружает электрическое поле, наносящее 20 ед. урона.|nВремя действия - 20 сек."
+
+[woms]
+Art=ReplaceableTextures\CommandButtons\BTNWandOfManaSteal.blp
+Description=Возможность похищать ману.
+Hotkey=W
+Name=Жезл Похищения маны
+Tip=Жезл Похищения маны (|cffffcc00W|r)
+Ubertip=Похищение маны у указанного воина и передача ее герою.
+
+[wshs]
+Art=ReplaceableTextures\CommandButtons\BTNWandOfShadowSight.blp
+Description=Возможность смотреть на мир глазами противников.
+Hotkey=W
+Name=Жезл Чужих глаз
+Tip=Жезл Чужих глаз (|cffffcc00W|r)
+Ubertip="Воздействовав этим жезлом на вражеского воина, вы сможете видеть все, что видит он."
+
+[wswd]
+Art=ReplaceableTextures\CommandButtons\BTNSentryWard.blp
+Description=Позволяет применять заклинание ''Невидимый страж''.
+Name=Невидимые стражи
+Tip=Невидимые стражи
+Ubertip="Вызов духа, наблюдающего за указанной местностью. Время действия - 300 сек."

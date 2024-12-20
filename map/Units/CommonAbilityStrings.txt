@@ -1,0 +1,2889 @@
+[A1sd]
+Buffart=,
+TargetArt=Abilities\Spells\NightElf\Starfall\StarfallTarget.mdl
+Targetattach=origin
+
+[A1tr]
+Buffart=,
+TargetArt=Abilities\Spells\Human\Blizzard\BlizzardTarget.mdl
+
+[AEsd]
+Buffart=,
+TargetArt=Abilities\Spells\NightElf\Starfall\StarfallTarget.mdl
+Targetattach=origin
+
+[AEtr]
+Buffart=,
+TargetArt=Abilities\Spells\NightElf\Tranquility\TranquilityTarget.mdl
+
+[ANmd]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Monsoon\MonsoonBoltTarget.mdl
+Targetattach=origin
+
+[B000]
+Buffart=ReplaceableTextures\CommandButtons\BTNReincarnation.blp
+Bufftip=Superiority
+Buffubertip=This unit has increased damage.
+Spelldetail=1
+Targetattach=origin
+
+[B001]
+Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
+Bufftip=Envenom
+Buffubertip=This unit is taking damage and has slowed movement and attack speed.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B002]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNSlowPoison.blp
+Bufftip=Envenom
+Buffubertip=This unit is taking damage and has slowed movement and attack speed.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B003]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNMagicImmunity.blp
+Bufftip=Enchanted Poison
+Buffubertip=This unit is taking damage and has slowed movement and attack speed.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B004]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNMagicImmunity.blp
+Bufftip=Enchanted Poison
+Buffubertip=This unit is taking damage and has slowed movement and attack speed.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B005]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpellSteal.blp
+Bufftip=Adrenaline Rush
+Buffubertip=This unit has increased attack speed.
+Spelldetail=2
+Targetattach=origin
+
+[B006]
+Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
+Bufftip=Battle Cry
+Buffubertip=This unit damage has been increased.
+Spelldetail=1
+TargetArt=Abilities\Spells\NightElf\BattleRoar\RoarTarget.mdl
+Targetattach=overhead
+
+[B007]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
+Bufftip=Slowed
+Buffubertip=This unit has slowed movement.
+Spelldetail=2
+Targetattach=origin
+
+[B008]
+Buffart=ReplaceableTextures\CommandButtons\BTNHelmutPurple.blp
+Bufftip=Leadership
+Buffubertip=This unit has increased damage.
+Spelldetail=1
+Targetattach=origin
+
+[B009]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Bufftip=Helping Hand
+Buffubertip=This unit has increased movement.
+Spelldetail=2
+Targetattach=origin
+
+[B00D]
+Buffart=ReplaceableTextures\CommandButtons\BTNEtherealFormOn.blp
+Bufftip=Mindwarp
+Buffubertip=This unit attacks much faster.
+TargetArt=Abilities\Spells\Undead\UnholyFrenzy\UnholyFrenzyTarget.mdl
+Targetattach=overhead
+
+[B00E]
+Buffart=ReplaceableTextures\CommandButtons\BTNFelHound.blp
+Bufftip=Fiend
+Buffubertip=A summoned unit of the Shadow race.
+
+[B00F]
+Buffart=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
+Bufftip=Fanatic
+Buffubertip=A summoned unit of the Shadow race.
+
+[B00G]
+Buffart=ReplaceableTextures\CommandButtons\BTNMaskOfDeath.blp
+Bufftip=Blood Thirst
+Buffubertip=This unit has a life-stealing attack.
+SpecialArt=Abilities\Spells\Undead\VampiricAura\VampiricAuraTarget.mdl
+Specialattach=origin
+Spelldetail=2
+Targetattach=origin
+
+[B00H]
+Buffart=ReplaceableTextures\CommandButtons\BTNHornOfDoom.blp
+Bufftip=Sound of Madness
+Buffubertip=This unit has a life-stealing attack.
+SpecialArt=Abilities\Spells\Undead\VampiricAura\VampiricAuraTarget.mdl
+Specialattach=origin
+Spelldetail=2
+Targetattach=origin
+
+[B00J]
+Buffart=ReplaceableTextures\CommandButtons\BTNKelThuzad.blp
+Bufftip=Diabolic
+Buffubertip=A summoned unit of the Shadow race.
+
+[B00K]
+Buffart=ReplaceableTextures\CommandButtons\BTNInfernal.blp
+Bufftip=Infernal
+Buffubertip=A summoned unit of the Shadow race.
+
+[B00L]
+Buffart=ReplaceableTextures\CommandButtons\BTNNatureTouchGrow.blp
+Bufftip=Forbidden Fruit
+Buffubertip=This unit reflects melee damage back to attackers and deals AOE damage upon death.
+SpecialArt=Abilities\Spells\NightElf\ThornsAura\ThornsAuraDamage.mdl
+Specialattach=head
+Spelldetail=2
+Targetattach=origin
+
+[B00M]
+Buffart=ReplaceableTextures\CommandButtons\BTNCripple.blp
+Bufftip=Увечье
+Buffubertip=This unit is crippled.
+TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
+
+[B00O]
+Buffart=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
+Bufftip=Energy Shield
+Buffubertip=This unit uses mana to defend against enemy attacks.
+TargetArt=Abilities\Spells\Human\ManaShield\ManaShieldCaster.mdl
+
+[B00P]
+Buffart=ReplaceableTextures\CommandButtons\BTNDrum.blp
+Bufftip=Battle Drums
+Buffubertip=This unit has increased attack damage.
+Spelldetail=2
+Targetattach=origin
+
+[B00Q]
+Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
+Bufftip=Gnoll Poison
+Buffubertip=This unit's movement speed and attack speed are slowed.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B00R]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNSlowPoison.blp
+Bufftip=Gnoll Poison
+Buffubertip=This unit's movement speed and attack speed are slowed; it also takes damage over time.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B00S]
+Buffart=ReplaceableTextures\CommandButtons\BTNGnollCommandAura.blp
+Bufftip=King's Command Aura
+Buffubertip=This unit is under the effects of King's Command Aura; it has increased attack damage.
+Spelldetail=2
+Targetattach=origin
+
+[B00T]
+Buffart=ReplaceableTextures\CommandButtons\BTNCommand.blp
+Bufftip=Endurance Aura
+Buffubertip=This unit is under the effects of Endurance Aura; it has an increased movement speed and attack rate.
+Targetattach=origin
+
+[B00W]
+Buffart=ReplaceableTextures\CommandButtons\BTNScepterOfMastery.blp
+Bufftip=Sacred Blessing
+Buffubertip=This unit heals 3 nearby allies for 50hp every 5 seconds.
+SpecialArt=Abilities\Spells\Items\HealingSalve\HealingSalveTarget.mdl
+Specialattach=origin
+
+[B00X]
+Buffart=ReplaceableTextures\CommandButtons\BTNWellSpring.blp
+Bufftip=Water of Life
+Buffubertip=This unit heals 6 nearby allies every 6 seconds for 60hp. When it dies it heals 6 allies in an area around it for 600hp each.
+SpecialArt=Abilities\Spells\Other\Drain\ManaDrainCaster.mdl
+Specialattach=origin
+
+[B010]
+Buffart=ReplaceableTextures\CommandButtons\BTNReincarnation.blp
+Bufftip=Command Aura
+Buffubertip=This unit has increased damage.
+Spelldetail=1
+Targetattach=origin
+
+[B011]
+Buffart=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
+Bufftip=Amplify Magic
+Buffubertip=This unit has increased mana regeneration.
+Spelldetail=2
+Targetattach=origin
+
+[B013]
+Buffart=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
+Bufftip=Killing Spree
+Buffubertip=This unit has increased damage.
+Spelldetail=1
+TargetArt=Abilities\Spells\Human\ManaFlare\ManaFlareBase.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B015]
+Buffart=ReplaceableTextures\CommandButtons\BTNShaman.blp
+Bufftip=Проклятие
+Buffubertip=This unit has reduced armor.
+
+[B017]
+Buffart=ReplaceableTextures\CommandButtons\BTNTentacle.blp
+Bufftip=Kraken Poison
+Buffubertip=This unit is slowed and is taking damage over time.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B018]
+Buffart=ReplaceableTextures\CommandButtons\BTNTentacle.blp
+Bufftip=Kraken Poison
+Buffubertip=This unit is slowed and is taking damage over time.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B019]
+Buffart=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
+Bufftip=Blood Rush
+Buffubertip=This unit attacks and moves faster.
+Spelldetail=1
+TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
+Targetattach=hand,left
+Targetattach1=hand,right
+Targetattachcount=2
+
+[B01A]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNDevotion.blp
+Bufftip=Resilience Aura
+Buffubertip=This unit has bonus armor.
+Spelldetail=2
+Targetattach=origin
+
+[B01C]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Bufftip=Healing Aura
+Buffubertip=This unit heals nearby allies.
+SpecialArt=Abilities\Spells\Other\ANrm\ANrmTarget.mdl
+Specialattach=origin
+TargetArt=Abilities\Spells\Other\ANrm\ANrmTarget.mdl
+Targetattach=origin
+
+[B01D]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNMagicImmunity.blp
+Bufftip=Spell Immunity
+Buffubertip=This unit is immune to spells.
+
+[B01F]
+Buffart=ReplaceableTextures\CommandButtons\BTNIceShard.blp
+Bufftip=Evasion
+Buffubertip=This unit has evasion.
+
+[B01G]
+Buffart=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
+Bufftip=Replenish health
+Buffubertip=Replenish health
+
+[B01H]
+Buffart=ReplaceableTextures\CommandButtons\BTNInfernal.blp
+Bufftip=Bash
+Buffubertip=Each attack has a 17% chance to deal 180 bonus damage and stun for 1.6(0.6) seconds.
+
+[B01I]
+Buffart=ReplaceableTextures\CommandButtons\BTNGrunt.blp
+Bufftip=Maul
+Buffubertip=This unit has a chance to stun on attack.
+
+[B01J]
+Buffart=ReplaceableTextures\CommandButtons\BTNForgottenOne.blp
+Bufftip=Kraken Poison
+Buffubertip=This unit slows and deals damage per second to enemies.
+
+[B01K]
+Buffart=ReplaceableTextures\CommandButtons\BTNChaosWarlockGreen.blp
+Bufftip=Corruption
+Buffubertip=This unit reduces target's armor.
+
+[B01L]
+Buffart=ReplaceableTextures\CommandButtons\BTNFurbolgPanda.blp
+Bufftip=Hotblood
+Buffubertip=This unit passively regenerates hit points.
+
+[B01M]
+Buffart=ReplaceableTextures\CommandButtons\BTNGlaiveThrower.blp
+Bufftip=Regicide
+Buffubertip=Deals double damage to King.
+
+[B01N]
+Buffart=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
+Bufftip=Regicide
+Buffubertip=Deals double damage to King.
+
+[B01O]
+Buffart=ReplaceableTextures\CommandButtons\BTNShaman.blp
+Bufftip=Blood Rush
+Buffubertip=This unit can increase the attack speed and movement of an ally for 30 seconds. Lasts 5 seconds for bosses.
+
+[B01P]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Bufftip=Healing Aura
+Buffubertip=This unit is being healed.
+Spelldetail=1
+
+[B01Q]
+Buffart=ReplaceableTextures\CommandButtons\BTNEvasion.blp
+Bufftip=Swiftness Aura
+Buffubertip=This unit has increased movement.
+Spelldetail=2
+Targetattach=origin
+
+[B01R]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpellBreakerMagicDefend.blp
+Bufftip=Disturb
+Buffubertip=This unit attacks slower.
+Spelldetail=1
+TargetArt=Abilities\Spells\Human\slow\slowtarget.mdl
+
+[B01S]
+Buffart=ReplaceableTextures\CommandButtons\BTNCripple.blp
+Bufftip=Traumatize
+Buffubertip=This unit attacks and move slower.
+Spelldetail=1
+TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
+
+[B01T]
+Buffart=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
+Bufftip=Violate
+Buffubertip=This unit has reduced armor.
+
+[B01U]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
+Bufftip=Insanity
+Buffubertip=This unit's attack and armor are increased
+Spelldetail=1
+TargetArt=Abilities\Spells\Human\Banish\BanishTarget.mdl
+Targetattach=hand,left
+Targetattachcount=1
+
+[B01V]
+Buffart=ReplaceableTextures\CommandButtons\BTNDisenchant.blp
+Bufftip=Despair Aura
+Buffubertip=This unit has decreased damage.
+Spelldetail=1
+
+[B01X]
+Buffart=ReplaceableTextures\CommandButtons\BTNUnholyStrength.blp
+Bufftip=Haunting
+Buffubertip=This unit attacks slower and takes damage over time.
+TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
+Targetattach=overhead
+
+[B01Y]
+Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
+Bufftip=Catastrophe
+Buffubertip=This unit attacks slower and takes damage over time.
+TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
+Targetattach=origin
+
+[B01Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNBanish.blp
+Bufftip=Ghost Essence
+Buffubertip=This unit uses mana to defend against enemy attacks.
+TargetArt=Abilities\Spells\Human\Banish\BanishTarget.mdl
+
+[B020]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Bufftip=Silent Scream
+Buffubertip=This unit deals spell damage to up to 3 units whenever it attacks.
+
+[B021]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
+Bufftip=Cacophony
+Buffubertip=This unit deals spell damage to up to 4 units whenever it attacks.
+
+[B022]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNGenericSpellImmunity.blp
+Bufftip=Boss Unit
+Buffubertip=Debuffs on this unit last for a shorter duration.
+
+[B023]
+Buffart=ReplaceableTextures\CommandButtons\BTNWeb.blp
+Bufftip=Sticky Webs
+Buffubertip=This unit moves and attacks slower.
+Spelldetail=2
+
+[B024]
+Buffart=ReplaceableTextures\CommandButtons\BTNWeb.blp
+Bufftip=Sticky Webs
+Buffubertip=This unit moves and attacks slower.
+Spelldetail=2
+
+[B025]
+Buffart=ReplaceableTextures\CommandButtons\BTNChemicalRage.blp
+Bufftip=Steroids
+Buffubertip=This unit has increased damage and his attacks bounces.
+Spelldetail=1
+TargetArt=Abilities\Weapons\DruidoftheTalonMissile\DruidoftheTalonMissile.mdl
+Targetattach=hand,left
+Targetattach1=hand,right
+Targetattachcount=2
+
+[B026]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
+Bufftip=Throw Net
+Buffubertip=This unit cannot move or fly.
+TargetArt=Abilities\Spells\Orc\Ensnare\ensnare_AirTarget.mdl
+Targetattach=chest,mount
+
+[B027]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
+TargetArt=Abilities\Spells\Orc\Ensnare\ensnareTarget.mdl
+Targetattach=origin
+
+[B028]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
+Bufftip=Throw Net
+Buffubertip=This unit cannot move or fly.
+TargetArt=Abilities\Spells\Orc\Ensnare\ensnareTarget.mdl
+
+[B029]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Bufftip=Fury
+Buffubertip=This unit attacks much faster.
+TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
+Targetattach=hand,left
+Targetattach1=hand,right
+Targetattachcount=2
+
+[B02B]
+Buffart=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
+Bufftip=Seduce
+Buffubertip=This unit has a chance to miss on attacks.
+TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
+Targetattach=overhead
+
+[B02C]
+Buffart=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
+Bufftip=Tremor
+Buffubertip=This unit has reduced movement speed and attack speed.
+TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
+Targetattach=overhead
+
+[B02D]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Blue Wind
+Buffubertip=This unit is being hit by a wind gust.
+
+[B02E]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Blue Wind
+Buffubertip=This unit damages nearby enemy units with wind gusts.
+
+[B02F]
+Buffart=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
+Bufftip=Reassurance
+Buffubertip=This unit has increased armor.
+Spelldetail=2
+Targetattach=origin
+
+[B02G]
+Buffart=ReplaceableTextures\CommandButtons\BTNShockWave.blp
+Bufftip=Magnataur's Shockwave
+Buffubertip=This unit casts shockwave.
+
+[B02H]
+Buffart=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
+Bufftip=Torrent
+Buffubertip=This unit's attack bounces 1 time.
+
+[B02J]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpy.blp
+Bufftip=Marked Target
+Buffubertip=This unit takes additional damage from piercing attacks.
+
+[B02M]
+Buffart=ReplaceableTextures\CommandButtons\BTNScout.blp
+Bufftip=Guardian Spirit
+Buffubertip=This unit takes reduced damage.
+Targetattach=origin
+Targetattach1=origin
+Targetattach2=origin
+Targetattach3=origin
+Targetattachcount=1
+
+[B02N]
+Buffart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
+Bufftip=Armor Bonus
+Buffubertip=This unit has bonus armor for reaching the middle.
+
+[B02P]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Bufftip=Entangle
+Buffubertip=This unit cannot move and takes damage over time.
+TargetArt=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
+Targetattach=origin
+
+[B02Q]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNPoisonSting.blp
+Bufftip=Biotoxin
+Buffubertip=This unit moves and attacks slower.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B02R]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNPoisonSting.blp
+Bufftip=Biotoxin
+Buffubertip=This unit moves and attacks slower.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B02S]
+Buffart=ReplaceableTextures\CommandButtons\BTNImprovedReinforcedHides.blp
+Bufftip=Withdraw
+Buffubertip=This unit attacks much slower
+
+[B02T]
+Buffart=ReplaceableTextures\CommandButtons\BTNGlacier.blp
+Bufftip=Sphere
+Buffubertip=This unit has increased armor
+SpecialArt=Abilities\Spells\Undead\FrostArmor\FrostArmorDamage.mdl
+Specialattach=chest
+Spelldetail=1
+TargetArt=Abilities\Spells\Undead\FrostArmor\FrostArmorTarget.mdl
+Targetattach=chest
+
+[B02U]
+Buffart=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
+Bufftip=Healing Aura
+Buffubertip=This unit is being healed.
+Spelldetail=1
+
+[B02W]
+Buffart=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
+Bufftip=Storm Geyser
+Buffubertip=A storm geyser.
+
+[B02X]
+Buffart=ReplaceableTextures\CommandButtons\BTNNagaBurrow.blp
+Bufftip=Submerge
+Buffubertip=This unit is submerged and cannot be harmed. After resurfacing it will gain attack speed.
+SpecialArt=Doodads\Icecrown\Water\BubbleGeyserSteam\BubbleGeyserSteam
+
+[B02Y]
+Buffart=ReplaceableTextures\CommandButtons\BTNNagaBurrow.blp
+Bufftip=Submerge
+Buffubertip=This unit moves and attack faster.
+SpecialArt=Abilities\Spells\NightElf\FaerieDragonInvis\FaerieDragon_Invis.mdl
+
+[B02Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNNoBounty.blp
+Bufftip=Leaked
+Buffubertip=Leaked unit may not give full bounty(depend on mode).
+
+[B030]
+Buffart=ReplaceableTextures\CommandButtons\BTNLeatherUpgradeTwo.blp
+Bufftip=Harden Armor
+Buffubertip=Has a chance to reduce damage taken by 60 every time this unit is attacked. If the attack deals less than 60 damage
+TargetArt=Abilities\Spells\Human\DevotionAura\DevotionAura.mdl
+Targetattach=origin
+
+[B031]
+Buffart=ReplaceableTextures\CommandButtons\BTNDefend.blp
+Bufftip=Defend
+Buffubertip=This unit take only 65% of the damage from Piercing attacks and movement is reduced.
+
+[B033]
+Buffart=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
+Bufftip=Overclocking
+Buffubertip=This unit has Overclocked. Attack rate and movement speed are increased.
+Spelldetail=1
+TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
+Targetattach=hand,right
+Targetattach1=hand,left
+Targetattachcount=2
+
+[B034]
+Buffart=ReplaceableTextures\CommandButtons\BTNTelescope.blp
+Bufftip=Telescope
+Buffubertip=This unit ranged attacks will deal more damage.
+Targetattach=origin
+
+[B039]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=10%-20%
+Buffubertip=This unit give 10%-20% bounty.
+
+[B03A]
+Buffart=ReplaceableTextures\CommandButtons\BTNRaiseDead.blp
+Bufftip=Raise Dead
+Buffubertip=A summoned unit of the Undead race.
+
+[B03B]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=20%-30%
+Buffubertip=This unit give 20%-30% bounty.
+
+[B03C]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=90%-100%
+Buffubertip=This unit give 90%-100% bounty.
+
+[B03D]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=0%
+Buffubertip=This unit give 0 bounty.
+
+[B03E]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
+Bufftip=Frost Shield
+Buffubertip=This unit is under the effects of Frost Shield
+Targetattach=origin
+
+[B03F]
+Buffart=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
+Bufftip=Ice Shield
+Buffubertip=This unit is under the effects of Ice Shield
+Targetattach=origin
+
+[B03H]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Bufftip=Bleeding
+Buffubertip=This unit is bleeding.
+Spelldetail=2
+TargetArt=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
+
+[B03I]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Bufftip=Bleeding
+Buffubertip=This unit is bleeding
+Spelldetail=2
+TargetArt=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
+
+[B03K]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
+Bufftip=Frost Aura
+Buffubertip=This unit have Frost Aura
+Targetattach=origin
+
+[B03M]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Bufftip=Berserk 2
+Buffubertip=This unit is Berserk; it will attack and movement 60% faster
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B03O]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Bufftip=Berserk 3
+Buffubertip=This unit is Berserk; it will attack 80% and movement faster
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B03P]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=100%
+Buffubertip=This unit give 100% bounty.
+
+[B03Q]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNRegenerationAura.blp
+Bufftip=Heartstopper
+Buffubertip=This unit was hit by an Heartstopper Aura; it will lose hp over time.
+Targetattachcount=1
+
+[B03R]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=40%-50%
+Buffubertip=This unit give 40%-50% bounty.
+
+[B03S]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=30%-40%
+Buffubertip=This unit give 30%-40% bounty.
+
+[B03T]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=70%-80%
+Buffubertip=This unit give 70%-80% bounty.
+
+[B03U]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=80%-90%
+Buffubertip=This unit give 80%-90% bounty.
+
+[B03V]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=50%-60%
+Buffubertip=This unit give 50%-60% bounty.
+
+[B03W]
+Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
+Bufftip=60%-70%
+Buffubertip=This unit give 60%-70% bounty.
+
+[B03X]
+Buffart=ReplaceableTextures\CommandButtons\BTNPlagueCloud.blp
+Bufftip=Ядовитое облако
+Buffubertip=This unit is diseased; it will do less damage.
+Spelldetail=2
+TargetArt=Units\Undead\PlagueCloud\PlagueCloudtarget.mdl
+Targetattach=head
+
+[B03Y]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
+Bufftip=Ледяная броня
+Buffubertip=This unit has Frost Armor; it has increased armor
+SpecialArt=Abilities\Spells\Undead\FrostArmor\FrostArmorDamage.mdl
+Specialattach=chest
+Spelldetail=1
+TargetArt=Abilities\Spells\Undead\FrostArmor\FrostArmorTarget.mdl
+Targetattach=chest
+
+[B03Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
+Bufftip=Доспехи веры
+Buffubertip=На этого воина действует заклинание ''Доспехи веры''. Его защита повышена.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B040]
+Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
+Bufftip=Волшебный огонь
+Buffubertip="На этого воина действует заклинание ''Волшебный огонь''. Его защита уменьшена, а все, что находится в его поле зрения, видит противник."
+Spelldetail=1
+TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
+Targetattach=head
+
+[B041]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=This unit is poisoned
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B042]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=Этот воин отравлен. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B043]
+Buffart=ReplaceableTextures\CommandButtons\BTNGnollCommandAura.blp
+Bufftip=Боевой дух
+Buffubertip=На этого воина действует способность ''Боевой дух''. Сила его атаки увеличена.
+Spelldetail=1
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B044]
+Buffart=ReplaceableTextures\CommandButtons\BTNStun.blp
+Bufftip=Оглушенный
+Buffubertip=This unit is stunned; it cannot move
+TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
+Targetattach=overhead
+
+[B045]
+Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
+Bufftip=Ледяное дыхание
+Buffubertip=Этот воин находится под воздействием заклинания Ледяное дыхание. Он постепенно теряет здоровье.
+TargetArt=Abilities\Spells\Other\BreathOfFrost\BreathOfFrostTarget.mdl
+
+[B046]
+Buffart=ReplaceableTextures\CommandButtons\BTNTelescope.blp
+Bufftip=Advanced Telescope
+Buffubertip=This unit ranged attacks will deal more damage.
+Targetattach=origin
+
+[B047]
+Buffart=ReplaceableTextures\CommandButtons\BTNDisenchant.blp
+Bufftip=Sickness Aura
+Buffubertip=This unit has decreased damage.
+Spelldetail=2
+
+[B048]
+Buffart=ReplaceableTextures\CommandButtons\BTNPlagueCloud.blp
+Bufftip=Ядовитое облако
+Buffubertip=This unit is diseased; it will do less damage.
+Spelldetail=2
+TargetArt=Units\Undead\PlagueCloud\PlagueCloudtarget.mdl
+Targetattach=head
+
+[B049]
+Buffart=ReplaceableTextures\CommandButtons\BTNGreedisGood2.blp
+Bufftip=Brawler Rage
+Buffubertip=This unit is benefiting from Brawler Rage. It is moving and attacking more quickly.
+
+[B04F]
+Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
+Bufftip=Жар Преисподней
+Buffubertip=This unit has Immolation; nearby enemy units will take damage over time.
+SpecialArt=Abilities\Spells\NightElf\Immolation\ImmolationDamage.mdl
+Specialattach=head
+
+[B04H]
+Buffart=ReplaceableTextures\CommandButtons\BTNMirrorImage.blp
+Bufftip=Иллюзия
+Buffubertip=Иллюзорный двойник.
+SpecialArt=Abilities\Spells\Orc\MirrorImage\MirrorImageDeathCaster.mdl
+
+[B04J]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
+Bufftip=Dragon's Breath.
+Buffubertip=This unit has been hit by Dragon's Breath.
+
+[B04K]
+Buffart=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
+Bufftip=Darkness Aura
+Buffubertip=This unit is under the effects of Darkness Aura; it has an reduced damage.
+Spelldetail=2
+Targetattach=origin
+
+[B04L]
+Buffart=ReplaceableTextures\CommandButtons\BTNGnollCommandAura.blp
+Bufftip=Боевой дух
+Buffubertip=На этого воина действует способность ''Боевой дух''. Сила его атаки увеличена.
+Spelldetail=1
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B04M]
+Buffart=ReplaceableTextures\CommandButtons\BTNCommand.blp
+Bufftip=Аура выносливости
+Buffubertip="На этого воина действует аура выносливости. Скорость его перемещения и боя выше, чем обычно."
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B04N]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Bufftip=Лечение
+Buffubertip=Этот воин лечится. Его запас здоровья постепенно восстанавливается.
+Spelldetail=1
+
+[B04O]
+Buffart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
+Bufftip=Доспехи веры
+Buffubertip=На этого воина действует заклинание ''Доспехи веры''. Его защита повышена.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B04P]
+Buffart=ReplaceableTextures\CommandButtons\BTNTheBlackArrow.blp
+Bufftip=Черная стрела
+Buffubertip=This unit was hit by a Black Arrow; if it dies
+
+[B04Q]
+Buffart=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
+Bufftip=Духовное пламя
+Buffubertip=Этот воин находится под воздействием заклинания ''Духовное пламя''. Его защита и сила атаки значительно выше нормы.
+Spelldetail=1
+TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B04R]
+Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
+Bufftip=Heartstopper
+Buffubertip=You are DEAD
+
+[B05M]
+Buffart=ReplaceableTextures\CommandButtons\BTNReincarnation.blp
+Bufftip=Anti-Leak
+Buffubertip=This unit takes reduced damage.
+Targetattachcount=1
+
+[B05T]
+Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
+Bufftip=Fire Breath
+Buffubertip=This unit is caught in fire; it will take damage over time.
+
+[B101]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
+Bufftip= 
+Buffubertip= 
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B102]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
+Bufftip= 
+Buffubertip= 
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B105]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNRegenerationAura.blp
+Bufftip=Quickness Aura
+Buffubertip=This unit has increased attack speed and movespeed.
+Spelldetail=2
+Targetattach=origin
+
+[B106]
+Buffart=ReplaceableTextures\CommandButtons\BTNBanish.blp
+Bufftip=Astral
+Buffubertip="Этот воин находится в мире духов. Он неуязвим для обычного оружия, но и сам не может атаковать. Впрочем, пользоваться магией ему ничто не мешает, а заклинания противника наносят ему дополнительный урон."
+Effectsoundlooped=BanishLoop
+Spelldetail=2
+TargetArt=Abilities\Spells\Human\Banish\BanishTarget.mdl
+
+[B107]
+Buffart=ReplaceableTextures\CommandButtons\BTNEtherealFormOn.blp
+Bufftip=Weakening of time
+Buffubertip=-5% attackspeed.
+Spelldetail=2
+Targetattach=origin
+
+[B10E]
+Buffart=ReplaceableTextures\CommandButtons\BTNFelHound.blp
+Bufftip=Corrupted End
+Buffubertip=A summoned unit of the Shadow race.
+
+[B114]
+Buffart=ReplaceableTextures\CommandButtons\BTNIceTroll.blp
+Bufftip=Frost Aura
+Buffubertip=This unit is slowed.
+TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
+
+[B11M]
+Buffart=ReplaceableTextures\CommandButtons\BTNCripple.blp
+Bufftip=Увечье
+Buffubertip=This unit is crippled.
+TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
+
+[B11R]
+Buffart=ReplaceableTextures\CommandButtons\BTNCurse.blp
+Bufftip=Curse
+Buffubertip=The target misses.
+Spelldetail=1
+TargetArt=Abilities\Spells\Undead\Curse\CurseTarget.mdl
+Targetattach=overhead
+
+[B11Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
+Bufftip=Mana Shield
+Buffubertip=This unit uses mana to defend against enemy attacks.
+TargetArt=Abilities\Spells\Human\ManaShield\ManaShieldCaster.mdl
+
+[B12F]
+Buffart=ReplaceableTextures\CommandButtons\BTNHumanArmorUpTwo.blp
+Bufftip=Phalanx
+Buffubertip=This unit has increased armor.
+Spelldetail=2
+Targetattach=origin
+
+[B12L]
+Buffart=ReplaceableTextures\CommandButtons\BTNAuraOfDarkness.blp
+Bufftip=|cffff0000Fear Aura|r
+Buffubertip=This unit is under the effects of Fear Aura; it has reduced attack damage.
+Spelldetail=1
+
+[B12M]
+Buffart=ReplaceableTextures\CommandButtons\BTNScout.blp
+Bufftip=Guardian Spirit
+Buffubertip=This unit takes reduced damage.
+Targetattach=origin
+Targetattach1=origin
+Targetattach2=origin
+Targetattach3=origin
+Targetattachcount=1
+
+[B12Q]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNPoisonSting.blp
+Bufftip=Biotoxin
+Buffubertip=This unit moves and attacks slower.
+
+[B13F]
+Buffart=ReplaceableTextures\CommandButtons\BTNHumanArmorUpOne.blp
+Bufftip=Shield Wall
+Buffubertip=This unit has increased armor.
+Spelldetail=2
+Targetattach=origin
+
+[B13M]
+Buffart=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
+Bufftip=Distortion
+Buffubertip=10% attackspeed up
+Targetattach=origin
+Targetattach1=origin
+Targetattach2=origin
+Targetattach3=origin
+Targetattachcount=1
+
+[B13Q]
+Buffart=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
+Bufftip=Decay
+TargetArt=Units\Undead\PlagueCloud\PlagueCloudtarget.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B13Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
+Bufftip=Acrid breath
+Buffubertip=The target has reduced protection.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B141]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
+Bufftip=Murderous poison
+Buffubertip=This unit is poisoned
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B142]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
+Bufftip=Murderous poison
+Buffubertip=Этот воин отравлен. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B143]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=This unit is poisoned
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B144]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=Этот воин отравлен. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B145]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=This unit is poisoned
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B146]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=Этот воин отравлен. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[B14F]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNIncinerate.blp
+Bufftip=Incinerate
+Buffubertip=This unit has Immolation; nearby enemy units will take damage over time.
+SpecialArt=Abilities\Spells\Other\Incinerate\FireLordDeathExplode.mdl
+Specialattach=chest
+TargetArt=Abilities\Spells\Other\Incinerate\IncinerateBuff.mdl
+Targetattach=chest
+
+[B14M]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNThornShield.blp
+Bufftip=Thorn Shell
+Buffubertip=Returns 100% damage to the offender.
+Targetattachcount=1
+
+[B14Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
+Bufftip=Faerie Fire
+Buffubertip=The target has reduced protection.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B15F]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Вихрь торнадо
+Buffubertip=Этот воин поднят в воздух вихрем торнадо.
+EffectArt=Abilities\Spells\Other\Tornado\TornadoElementalSmall.mdl
+Effectattach=sprite,first
+
+[B15M]
+Buffart=ReplaceableTextures\CommandButtons\BTNScout.blp
+Bufftip=Guardian Spirit
+Buffubertip=This unit takes reduced damage.
+TargetArt=Abilities\Spells\Other\Tornado\Tornado_Target.mdl
+Targetattachcount=1
+
+[B15Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
+Bufftip=Corruption
+Buffubertip=The target has reduced protection.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B16M]
+Buffart=ReplaceableTextures\CommandButtons\BTNScout.blp
+Bufftip=Berserk
+Buffubertip=This unit takes reduced damage.
+TargetArt=Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestRight.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountRight.mdl
+Targetattach=origin
+Targetattach1=origin
+Targetattach2=origin
+Targetattach3=origin
+Targetattachcount=1
+
+[B16Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
+Bufftip=Violate
+Buffubertip=The target has reduced protection.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B17F]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Торнадо вихрь (область)
+Buffubertip=Этот воин поднят в воздух вихрем торнадо.
+
+[B17Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
+Bufftip=Nothing
+Buffubertip=На этого воина действует заклинание ''Доспехи веры''. Его защита повышена.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[B18F]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Торнадо урон
+
+[B19F]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Торнадо замедление
+TargetArt=Abilities\Spells\Other\Tornado\Tornado_Target.mdl
+
+[B1ab]
+Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
+Bufftip=Acrid Breath
+Buffubertip=The unit's defense is reduced.
+TargetArt=.mdl
+Targetattach=chest
+
+[B1bd]
+Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
+Bufftip=Буран
+Buffubertip=Этот воин застигнут бураном.
+TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
+
+[B1bz]
+Buffart=,
+
+[B1tc]
+Buffart=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
+Bufftip=Thunderclap
+Buffubertip=Этот воин пострадал от удара грома. Скорость его перемещения и боя значительно ниже нормы.
+TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
+Targetattach=overhead
+
+[B1ts]
+Buffart=ReplaceableTextures\CommandButtons\BTNThornShield.blp
+Bufftip=Damage return
+Buffubertip=This unit returns damage to the attackers.
+TargetArt=Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestRight.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountRight.mdl
+Targetattach=chest,left
+Targetattach1=chest,right
+Targetattach2=chest,mount,left
+Targetattach3=chest,mount,right
+Targetattachcount=4
+
+[B1vc]
+Buffart=,
+Bufftip=Divine Shield
+TargetArt=Abilities\Spells\Human\Resurrect\ResurrectCaster.mdl
+
+[B1vd]
+Buffart=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
+Bufftip=Divine Shield
+Buffubertip=This unit is protected by an invulnerability spell. He is invulnerable.
+TargetArt=Abilities\Spells\Items\StaffOfSanctuary\Staff_Sanctuary_Target.mdl
+Targetattach=chest
+
+[B20F]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Торнадо ограниченная жизнь
+Effectsoundlooped=TornadoLoop
+
+[B22F]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNRegenerationAura.blp
+Bufftip=Reduced protection
+Buffubertip=This unit has increased armor.
+
+[B23M]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Bufftip=Berserk 1
+Buffubertip=This unit is Berserk; it will attack and movement 40% faster
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B23Z]
+Buffart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
+Bufftip=Overload block
+Buffubertip=На этого воина действует заклинание ''Доспехи веры''. Его защита повышена.
+Spelldetail=2
+Targetattach=origin
+
+[B241]
+Buffart=ReplaceableTextures\CommandButtons\BTNLifeDrain.blp
+Bufftip=Dark Touch
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\ImmolationRed\ImmolationRedDamage.mdl
+
+[B242]
+Buffart=ReplaceableTextures\CommandButtons\BTNLifeDrain.blp
+Bufftip=Dark Touch
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\ImmolationRed\ImmolationRedDamage.mdl
+
+[B243]
+Buffart=ReplaceableTextures\CommandButtons\BTNLifeDrain.blp
+Bufftip=Dark Touch
+TargetArt=Abilities\Spells\Other\ImmolationRed\ImmolationRedDamage.mdl
+
+[B24F]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Bufftip=Chilling growl
+Buffubertip=The damage and defense of this unit is reduced.
+Specialattach=origin
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
+Targetattach=origin
+
+[B415]
+Buffart=,
+Spelldetail=2
+Targetattach=origin
+
+[B973]
+Buffart=ReplaceableTextures\CommandButtons\BTNPillage.blp
+Bufftip=Cooldown
+Buffubertip=This unit has increased armor and hp regen
+Spelldetail=1
+TargetArt=Abilities\Spells\Demon\DemonBoltImpact\DemonBoltImpact.mdl
+Targetattach=overhead
+
+[B975]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Bufftip=All out
+Buffubertip=This unit is on killing Berserk; it will attack and move 150% faster for 2 sec
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[B976]
+Buffart=ReplaceableTextures\CommandButtons\BTNThornShield.blp
+Bufftip=Counter Attack
+Buffubertip=Melee units that attack the champion take 40% of the damage too
+SpecialArt=Abilities\Spells\NightElf\ThornsAura\ThornsAuraDamage.mdl
+Specialattach=head
+Spelldetail=2
+Targetattach=origin
+
+[B977]
+Buffart=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
+Bufftip=Armor Hail
+Buffubertip=Enemy Units around the Champion have their armor reduced. AoE 425
+Spelldetail=2
+Targetattach=origin
+
+[B978]
+Buffart=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
+Bufftip=Armor Hail
+Buffubertip=This unit's armor is corrupted
+Spelldetail=2
+Targetattach=origin
+
+[B980]
+Buffart=ReplaceableTextures\CommandButtons\BTNReincarnation.blp
+Bufftip=Toughness
+Buffubertip=This guy is one tough nut
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl,Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSRight.mdl
+Targetattach=weapon,left
+Targetattach1=weapon,right
+Targetattachcount=2
+
+[B981]
+Buffart=ReplaceableTextures\CommandButtons\BTNUnholyAura.blp
+Bufftip=Inspiring
+Buffubertip=This unit provides 1% max hp regen aura to all its allies
+Spelldetail=2
+Targetattach=origin
+
+[B982]
+Buffart=ReplaceableTextures\CommandButtons\BTNReincarnation.blp
+Bufftip=Toughness
+Buffubertip=This guy is one tough nut
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl,Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSRight.mdl
+Targetattach=weapon,left
+Targetattach1=weapon,right
+Targetattachcount=2
+
+[B983]
+Buffart=ReplaceableTextures\CommandButtons\BTNManaShield.blp
+Bufftip=Chilling Skin
+Buffubertip=This unit has Chilling Skin
+SpecialArt=Abilities\Spells\Undead\FrostArmor\FrostArmorDamage.mdl
+Spelldetail=1
+
+[B984]
+Buffart=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
+Bufftip=Enraged
+Buffubertip=This unit is Enraged
+Spelldetail=1
+TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
+Targetattach=hand,left
+Targetattach1=hand,right
+Targetattachcount=2
+
+[B986]
+Buffart=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
+Bufftip=Anarchy
+Buffubertip=What rules?
+Targetattach=origin
+
+[B987]
+Buffart=ReplaceableTextures\CommandButtons\BTNICON_TEMPLATE_STARTER.blp
+Targetattach=origin
+
+[B988]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
+Bufftip=Cold Attack
+Buffubertip=This unit is slowed; it moves and attacks more slowly than it normally does.
+TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
+
+[B989]
+Buffart=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
+Bufftip=Call to Arms
+Buffubertip=This unit can Call for Help at 1800 range
+Targetattach=origin
+
+[B990]
+Buffart=ReplaceableTextures\CommandButtons\BTNReinforcedBurrows.blp
+Bufftip=Imbued
+Buffubertip=This unit takes reduced 40% damage from spells.
+
+[B992]
+Buffart=,
+SpecialArt=Abilities\Spells\Undead\DeathandDecay\DeathandDecayDamage.mdl
+Specialattach=head
+
+[B994]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNBrilliance.blp
+Bufftip=A Presence
+Buffubertip=This unit is under the effects of a Presence and it has increased mana regeneration.
+Spelldetail=2
+TargetArt=Abilities\Spells\Human\Brilliance\Brilliance.mdl
+Targetattach=origin
+
+[B995]
+Buffart=ReplaceableTextures\CommandButtons\BTNPossession.blp
+Bufftip=Dark Presence
+Buffubertip=This units base damage is increased by 350% gains an extra bounce
+Spelldetail=1
+TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlCaster.mdl
+Targetattach=overhead
+
+[B996]
+Buffart=ReplaceableTextures\CommandButtons\BTNAvatar.blp
+Bufftip=Royal Presence
+Buffubertip=This unit is affected by Royal Presence; it will lose hp over time.
+Targetattachcount=1
+
+[B997]
+Buffart=ReplaceableTextures\CommandButtons\BTNShockWave.blp
+Bufftip=King's Shockwave
+Buffubertip=This unit has been hit by King's Shockwave; it will take damage over time.
+TargetArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
+
+[B999]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Bufftip=Death Bass
+Buffubertip=This unit deals spell damage to up to 4 units whenever it attacks.
+
+[BB76]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNResistantSkin.blp
+Bufftip=Reflective Armor
+Buffubertip=Melee units that attack the Krogoth take 50% of the damage too.
+
+[BCbf]
+Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
+Bufftip=Ледяное дыхание
+Buffubertip=Этот воин находится под воздействием заклинания Ледяное дыхание. Он постепенно теряет здоровье.
+TargetArt=Abilities\Spells\Other\BreathOfFrost\BreathOfFrostTarget.mdl
+
+[BCtc]
+Buffart=ReplaceableTextures\CommandButtons\BTNGolemThunderclap.blp
+Bufftip=Удар по земле
+Buffubertip=Этот воин пострадал от удара по земле. Его движения замедлены.
+TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
+Targetattach=overhead
+
+[BEah]
+Buffart=ReplaceableTextures\CommandButtons\BTNThorns.blp
+Bufftip=Аура возмездия
+Buffubertip="Этот воин находится под защитой ауры возмездия. Всем, кто пытается его атаковать, наносится урон."
+SpecialArt=Abilities\Spells\NightElf\ThornsAura\ThornsAuraDamage.mdl
+Specialattach=head
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BEar]
+Buffart=ReplaceableTextures\CommandButtons\BTNTrueShot.blp
+Bufftip=Аура меткости
+Buffubertip="На этого воина действует аура меткости. В дальнем бою он наносит больший урон, чем обычно."
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BEer]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Bufftip=Гнев деревьев
+Buffubertip=Этот воин оплетен корнями деревьев. Он не может двигаться и постепенно теряет здоровье.
+TargetArt=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
+Targetattach=origin
+
+[BEfn]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnt.blp
+Bufftip=Сила природы
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[BEia]
+Buffart=,
+
+[BEim]
+Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
+Bufftip=Жар Преисподней
+Buffubertip="Этот воин находится под защитой заклинания ''Жар Преисподней''. Все противники, находящиеся рядом с ним, непрерывно теряют здоровье."
+SpecialArt=Abilities\Spells\NightElf\Immolation\ImmolationDamage.mdl
+Specialattach=head
+TargetArt=Abilities\Spells\NightElf\Immolation\ImmolationTarget.mdl
+
+[BEme]
+Buffart=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
+Bufftip=Перевоплощение
+Buffubertip="Герой принимает облик могучего демона, способного вести дальний бой."
+
+[BEsh]
+Buffart=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
+Bufftip=Отравленный нож
+Buffubertip=This unit was hit by Shadow Strike; it will take damage over time and move more slowly.
+TargetArt=Abilities\Spells\NightElf\shadowstrike\shadowstrike.mdl
+Targetattach=overhead
+
+[BEst]
+Buffart=,
+Bufftip=Разведка
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[BEsv]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
+Bufftip=Возмездие
+Buffubertip=Дух Возмездия разгневан.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BFig]
+Buffart=,
+Bufftip=Вызванное существо
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BHab]
+Buffart=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
+Bufftip=Чародейская аура
+Buffubertip=На этого воина действует Чародейская аура. Его запас маны восстанавливается с повышенной скоростью.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BHad]
+Buffart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
+Bufftip=Доспехи веры
+Buffubertip=На этого воина действует заклинание ''Доспехи веры''. Его защита повышена.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BHav]
+Buffart=ReplaceableTextures\CommandButtons\BTNAvatar.blp
+Bufftip=Мощь гор
+Buffubertip="Этот воин находится под защитой заклинания ''Мощь гор''. Оно невосприимчиво к магии, а его защита, запас здоровья и сила атаки увеличены."
+
+[BHbd]
+Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
+Bufftip=Буран
+Buffubertip=Этот воин застигнут бураном.
+TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
+
+[BHbn]
+Buffart=ReplaceableTextures\CommandButtons\BTNBanish.blp
+Bufftip=Изгнание в астрал
+Buffubertip="Этот воин находится в мире духов. Он неуязвим для обычного оружия, но и сам не может атаковать. Впрочем, пользоваться магией ему ничто не мешает, а заклинания противника наносят ему дополнительный урон."
+Effectsoundlooped=BanishLoop
+TargetArt=Abilities\Spells\Human\Banish\BanishTarget.mdl
+
+[BHbz]
+Buffart=,
+
+[BHca]
+Buffart=ReplaceableTextures\CommandButtons\BTNColdArrows.blp
+Bufftip=Ледяные стрелы
+Buffubertip=Этот воин ранен ледяной стрелой. Его движения замедлены.
+
+[BHds]
+Buffart=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
+Bufftip=Божественный щит
+Buffubertip=Этот воин находится под защитой Божественного щита. Он неуязвим для оружия и магии.
+TargetArt=Abilities\Spells\Human\DivineShield\DivineShieldTarget.mdl
+Targetattach=origin
+
+[BHfs]
+Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
+Bufftip=Огненный столб
+Buffubertip=Этот воин стал жертвой заклинания ''Огненный столб''. Он постепенно теряет здоровье.
+TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
+
+[BHtb]
+Buffart=,
+
+[BHtc]
+Buffart=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
+Bufftip=Удар грома
+Buffubertip=Этот воин пострадал от удара грома. Скорость его перемещения и боя значительно ниже нормы.
+TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
+Targetattach=overhead
+
+[BHwe]
+Buffart=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
+Bufftip=Дух Воды
+Buffubertip="Существа, вызванные с помощью магии, получают урон от заклинаний и способностей типа ''Рассеять чары''."
+
+[BIcb]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
+Bufftip=Проклятие
+Buffubertip=Этот воин проклят. Ее защита временно уменьшена.
+
+[BIcf]
+Buffart=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
+Bufftip=Огненный плащ
+Buffubertip="Этот воин находится под защитой заклинания ''Огненный плащ''. Противникам, находящимся поблизости от него, непрерывно наносится урон."
+SpecialArt=Abilities\Spells\NightElf\Immolation\ImmolationDamage.mdl
+Specialattach=head
+TargetArt=Abilities\Spells\NightElf\Immolation\ImmolationTarget.mdl
+
+[BIil]
+Buffart=ReplaceableTextures\CommandButtons\BTNWand.blp
+Bufftip=Двойник
+Buffubertip=Это - иллюзорный двойник. Он получает дополнительный урон в ближнем и дальнем бою.
+SpecialArt=Abilities\Spells\Orc\MirrorImage\MirrorImageDeathCaster.mdl
+
+[BImo]
+Buffart=,
+Bufftip=Приманка
+Buffubertip="Привлекает всех монстров, находящихся поблизости."
+
+[BIpb]
+Buffart=,
+
+[BIpd]
+Buffart=,
+
+[BIpv]
+Buffart=ReplaceableTextures\CommandButtons\BTNPotionOfVampirism.blp
+Bufftip=Зелье Вампиризма
+Buffubertip=Этот герой выпил зелье Вампиризма. Он наносит больший урон в бою и похищает здоровье своих противников.
+
+[BIrb]
+Buffart=ReplaceableTextures\CommandButtons\BTNRune.blp
+Bufftip=Перерожденный
+Buffubertip=Этот воин перерожден.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BIrg]
+Buffart=ReplaceableTextures\CommandButtons\BTNGreaterRejuvScroll.blp
+Bufftip=Омоложение
+Buffubertip=НЗдоровье и мана этого воина восстанавливаются со временем.
+TargetArt=Abilities\Spells\Other\ANrl\ANrlTarget.mdl,Abilities\Spells\Other\ANrm\ANrmTarget.mdl
+Targetattach=origin
+Targetattach1=origin
+Targetattachcount=2
+
+[BIrl]
+Buffart=ReplaceableTextures\CommandButtons\BTNHealingSalve.blp
+Bufftip=Регенерация
+Buffubertip=На этого воина действует заклинание ''Регенерация''. Его здоровье восстанавливается со временем.
+TargetArt=Abilities\Spells\Other\ANrm\ANrmTarget.mdl
+Targetattach=origin
+
+[BIrm]
+Buffart=ReplaceableTextures\CommandButtons\BTNPotionOfClarity.blp
+Bufftip=Зелье Просветления
+Buffubertip=Этот воин выпил зелье Просветления. Его запас маны восстанавливается со временем.
+TargetArt=Abilities\Spells\Other\ANrl\ANrlTarget.mdl
+Targetattach=origin
+
+[BIsh]
+Buffart=,
+Bufftip=Дух охотника за головами
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BIsv]
+Buffart=ReplaceableTextures\CommandButtons\BTNUsedSoulGem.blp
+Bufftip=Похищение души
+Buffubertip=Это - душа героя.
+TargetArt=Abilities\Spells\Items\AIso\BIsvTarget.mdl
+
+[BIwb]
+Buffart=,
+
+[BNab]
+Buffart=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
+Bufftip=Кислотная бомба
+Buffubertip="Этот воин поражен кислотной бомбой. Его защита снижена, а запас здоровья постепенно уменьшается."
+TargetArt=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
+Targetattach=chest
+
+[BNba]
+Buffart=ReplaceableTextures\CommandButtons\BTNTheBlackArrow.blp
+Bufftip=Черная стрела
+Buffubertip=Этот воин ранен черной стрелой. После гибели он превратится в скелета и будет сражаться на стороне противника.
+
+[BNbf]
+Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFire.blp
+Bufftip=Огненное дыхание
+Buffubertip=Этот воин горит. Каждую секунду ему наносится урон.
+TargetArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
+
+[BNbr]
+Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
+Bufftip=Рев
+Buffubertip=Этот воин издал рев. Его сила атаки увеличена.
+Spelldetail=1
+TargetArt=Abilities\Spells\NightElf\BattleRoar\RoarTarget.mdl
+Targetattach=overhead
+
+[BNcg]
+Buffart=,
+Bufftip=Заводной гоблин
+Buffubertip=Заводной гоблин.
+
+[BNcr]
+Buffart=ReplaceableTextures\CommandButtons\BTNChemicalRage.blp
+Bufftip=Эликсир ярости
+Buffubertip=Этот воин пребывает под действием эликсира ярости. Скорость его перемещения и боя ощутимо возросла.
+
+[BNcs]
+Buffart=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
+Bufftip=Ракетный удар
+Buffubertip=Ракетный удар.
+TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
+Targetattach=overhead
+
+[BNdc]
+Buffart=ReplaceableTextures\CommandButtons\BTNSleep.blp
+Bufftip=Обращение во Тьму
+Buffubertip=Этот крестьянин обращен во Тьму. Скоро он погрузится в сон и превратится в зомби.
+EffectArt=Abilities\Spells\Demon\DarkConversion\ZombifyTarget.mdl
+TargetArt=Abilities\Spells\Undead\Sleep\SleepTarget.mdl
+Targetattach=overhead
+
+[BNdh]
+Buffart=ReplaceableTextures\CommandButtons\BTNStrongDrink.blp
+Bufftip=Винные пары
+Buffubertip="Этот воин надышался винных паров. Скорость его перемещения снижена, а в бою он часто промахивается."
+TargetArt=Abilities\Spells\Other\StrongDrink\BrewmasterTarget.mdl
+Targetattach=overhead
+
+[BNdi]
+Buffart=,
+Bufftip=Печать Преисподней
+Buffubertip="На этого воина наложена Печать Преисподней. Он постепенно теряет здоровье, а после гибели он превратится в демона. Печать Преисподней невозможно снять или рассеять."
+EffectArt=Abilities\Spells\Other\Doom\DoomDeath.mdl
+TargetArt=Abilities\Spells\Other\Doom\DoomDeath.mdl
+
+[BNdm]
+Buffart=ReplaceableTextures\CommandButtons\BTNTheBlackArrow.blp
+Bufftip=Восставший из мертвых
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[BNdo]
+Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
+Bufftip=Печать Преисподней
+Buffubertip="На этого воина наложена Печать Преисподней. Он постепенно теряет здоровье, а после гибели он превратится в демона. Печать Преисподней невозможно снять или рассеять."
+TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
+
+[BNef]
+Buffart=ReplaceableTextures\CommandButtons\BTNStormEarth&Fire.blp
+Bufftip=Пандарийский дух
+Buffubertip="Пандарийский воин, владеющий силой одной из трех Стихий."
+EffectArt=Abilities\Spells\Orc\MirrorImage\MirrorImageDeathCaster.mdl
+SpecialArt=Abilities\Spells\Orc\MirrorImage\MirrorImageDeathCaster.mdl
+
+[BNeg]
+Buffart=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
+Bufftip=Техника
+TargetArt=Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestRight.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountRight.mdl
+Targetattach=chest,left
+Targetattach1=chest,right
+Targetattach2=chest,mount,left
+Targetattach3=chest,mount,right
+Targetattachcount=4
+
+[BNfy]
+Buffart=,
+Bufftip=Мини-завод
+Buffubertip=Мини-завод.
+
+[BNhs]
+Buffart=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
+Bufftip=Исцеляющий газ
+Buffubertip=Этот воин пребывает под действием исцеляющего газа. Его здоровье восстанавливается.
+
+[BNht]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Bufftip=Леденящий крик
+Buffubertip=Этот воин услышал леденящий крик. Сила его атаки уменьшилась.
+TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
+
+[BNic]
+Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
+Bufftip=Оживший огонь
+Buffubertip="На противника набрасываются духи огня, наносящие урон при каждой атаке. В случае гибели цель воспламеняется, обжигая близстоящих противников."
+SpecialArt=Abilities\Spells\Other\Incinerate\FireLordDeathExplode.mdl
+TargetArt=Abilities\Spells\Other\Incinerate\IncinerateBuff.mdl
+Targetattach=chest
+
+[BNin]
+Buffart=,
+Bufftip=Огненный голем
+Buffubertip=Могущественный огненный голем.
+
+[BNlm]
+Buffart=,
+Bufftip=Тварь из Недр
+Buffubertip=Тварь из Недр.
+Missilearc=0.99
+Missileart=Abilities\Weapons\LavaSpawnMissile\LavaSpawnBirthMissile.mdl
+MissileHoming=1
+Missilespeed=200
+
+[BNmr]
+Buffart=ReplaceableTextures\CommandButtons\BTNTemp.blp
+Bufftip=Слабоумие
+Buffubertip=На этого воина действует заклинание ''Слабоумие''. Каждую секунду он теряет часть своей маны.
+
+[BNms]
+Buffart=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
+Bufftip=Магический щит
+Buffubertip=Этот воин защищен магическим щитом. Он временно неуязвим для обычного оружия и вредоносных заклинаний.
+TargetArt=Abilities\Spells\Human\ManaShield\ManaShieldCaster.mdl
+
+[BNpa]
+Buffart=ReplaceableTextures\CommandButtons\BTNParasite.blp
+Bufftip=Паразит
+Buffubertip="Этот воин заражен паразитом. Он непрерывно теряет здоровье, а после гибели из его тела вылупится некое существо."
+TargetArt=Abilities\Spells\Other\Parasite\ParasiteTarget.mdl
+Targetattach=overhead
+
+[BNpi]
+Buffart=,
+SpecialArt=Abilities\Spells\NightElf\Immolation\ImmolationDamage.mdl
+Specialattach=head
+
+[BNpm]
+Buffart=ReplaceableTextures\CommandButtons\BTNParasite.blp
+Bufftip=Паразит
+Buffubertip="Этот воин заражен паразитом. Он непрерывно теряет здоровье, а после гибели из его тела вылупится некое существо."
+
+[BNrd]
+Buffart=ReplaceableTextures\CommandButtons\BTNFire.blp
+Bufftip=Огненный дождь
+Buffubertip=Этот воин был застигнут огненным дождем. Он постепенно теряет здоровье.
+TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
+
+[BNrf]
+Buffart=,
+
+[BNsa]
+Buffart=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
+Bufftip=Спасение
+Buffubertip="На этого воина действует заклинание ''Спасение''. Его здоровье восстанавливается со временем, но он не может двигаться, атаковать и пользоваться магией."
+TargetArt=Abilities\Spells\Items\StaffOfSanctuary\Staff_Sanctuary_Target.mdl
+
+[BNsg]
+Buffart=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
+Bufftip=Медведь
+Buffubertip=Медведь.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BNsi]
+Buffart=ReplaceableTextures\CommandButtons\BTNSilence.blp
+Bufftip=Безмолвие
+Buffubertip=На этого воина действует заклинание ''Безмолвие''. Он не может пользоваться магией.
+TargetArt=Abilities\Spells\Other\Silence\SilenceTarget.mdl
+Targetattach=overhead
+
+[BNsl]
+Buffart=ReplaceableTextures\CommandButtons\BTNSleep.blp
+Effectsound=SoulPreservation
+
+[BNso]
+Buffart=ReplaceableTextures\CommandButtons\BTNSoulBurn.blp
+Bufftip=Пламя Обреченности
+Buffubertip="На этого воина действует заклинание ''Пламя Обреченности''. Он не может применять заклинания, сила его атаки понижена, а запас здоровья постепенно уменьшается."
+TargetArt=Abilities\Spells\Other\SoulBurn\SoulBurnbuff.mdl
+Targetattach=overhead
+
+[BNsq]
+Buffart=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
+Bufftip=Кабан
+Buffubertip=Свирепый кабан.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BNss]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpellShieldAmulet.blp
+Bufftip=Защита
+Buffubertip="Щит, отражающий одно заклинание."
+TargetArt=Abilities\Spells\Items\SpellShieldAmulet\SpellShieldCaster.mdl
+Targetattach=origin
+
+[BNst]
+Buffart=,
+
+[BNsw]
+Buffart=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
+Bufftip=Сокол
+Buffubertip=A proud hawk.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BNtm]
+Buffart=ReplaceableTextures\CommandButtons\BTNTransmute.blp
+Bufftip=Трансмутация
+Buffubertip="Этот воин подвергается трансмутации. Скоро он превратится в золото и пополнит собой казну того, кто применил соответствующее заклинание."
+SpecialArt=Abilities\Spells\Other\Transmute\PileofGold.mdl
+
+[BNto]
+Buffart=,
+Bufftip=Торнадо
+Effectsoundlooped=TornadoLoop
+
+[BNva]
+Buffart=,
+
+[BNvc]
+Buffart=ReplaceableTextures\CommandButtons\BTNVolcano.blp
+Bufftip=Вулкан
+Buffubertip=Вулкан.
+TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
+Targetattach=overhead
+
+[BNwm]
+Buffart=ReplaceableTextures\CommandButtons\BTNMurgulTideWarrior.blp
+Bufftip=Призыв слуг
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BOac]
+Buffart=ReplaceableTextures\CommandButtons\BTNGnollCommandAura.blp
+Bufftip=Боевой дух
+Buffubertip=На этого воина действует способность ''Боевой дух''. Сила его атаки увеличена.
+Spelldetail=1
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BOae]
+Buffart=ReplaceableTextures\CommandButtons\BTNCommand.blp
+Bufftip=Аура выносливости
+Buffubertip="На этого воина действует аура выносливости. Скорость его перемещения и боя выше, чем обычно."
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BOea]
+Buffart=,
+
+[BOeq]
+Buffart=ReplaceableTextures\CommandButtons\BTNEarthquake.blp
+Bufftip=Землетрясение
+Buffubertip=Этот воин застигнут землетрясением. Скорость его перемещения значительно снижена.
+TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
+Targetattach=overhead
+
+[BOhx]
+Buffart=ReplaceableTextures\CommandButtons\BTNHex.blp
+Bufftip=Сглаз
+Buffubertip=Эту боевую единицу сглазили. Она превратилась в животное.
+EffectArt=Abilities\Spells\Human\Polymorph\PolyMorphDoneGround.mdl
+
+[BOmi]
+Buffart=ReplaceableTextures\CommandButtons\BTNMirrorImage.blp
+Bufftip=Иллюзия
+Buffubertip=Иллюзорный двойник.
+SpecialArt=Abilities\Spells\Orc\MirrorImage\MirrorImageDeathCaster.mdl
+
+[BOsf]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
+Bufftip=Дух Зверя
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[BOsh]
+Buffart=,
+
+[BOvc]
+Buffart=,
+TargetArt=Abilities\Spells\Orc\Voodoo\VoodooAura.mdl
+
+[BOvd]
+Buffart=ReplaceableTextures\CommandButtons\BTNBigBadVoodooSpell.blp
+Bufftip=Заговор Неуязвимости
+Buffubertip=Этот воин защищен заговором неуязвимости. Он неуязвим.
+TargetArt=Abilities\Spells\Orc\Voodoo\VoodooAuraTarget.mdl
+Targetattach=overhead
+
+[BOwd]
+Buffart=,
+Bufftip= 
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[BOwk]
+Buffart=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
+Bufftip=Стремительность
+Buffubertip="Этот воин применил заклинание ''Стремительность''. Он невидим для противников, а скорость его перемещения выше, чем обычно. Атаковав противника, он вновь станет видимым, но нанесет дополнительный урон."
+
+[BOww]
+Buffart=,
+
+[BPSE]
+Buffart=ReplaceableTextures\CommandButtons\BTNStun.blp
+Bufftip=Оглушенный
+Buffubertip=Этот воин не может двигаться.
+TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
+Targetattach=overhead
+
+[BSTN]
+Buffart=ReplaceableTextures\CommandButtons\BTNStun.blp
+Bufftip=Оглушение
+Buffubertip=This unit is stunned; it cannot move
+TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
+Targetattach=overhead
+
+[BUad]
+Buffart=,
+
+[BUan]
+Buffart=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
+Bufftip=Гальванизация
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+SpecialArt=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
+
+[BUau]
+Buffart=ReplaceableTextures\CommandButtons\BTNUnholyAura.blp
+Bufftip=Unholy Aura
+Buffubertip="На этого воина действует аура смерти. Скорость его перемещения повышена, а его здоровье восстанавливается быстрее, чем обычно."
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BUav]
+Buffart=ReplaceableTextures\CommandButtons\BTNVampiricAura.blp
+Bufftip=Вампиризм
+Buffubertip="На этого воина действует заклинание ''Вампиризм''. Он может восстанавливать свое здоровье, атакуя противников."
+SpecialArt=Abilities\Spells\Undead\VampiricAura\VampiricAuraTarget.mdl
+Specialattach=origin
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[BUcb]
+Buffart=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
+Bufftip=Трупоеды
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[BUcs]
+Buffart=,
+
+[BUdd]
+Buffart=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
+Bufftip=Порча
+Buffubertip=На этого воина действует заклинание ''Порча''. Он постепенно теряет здоровье.
+TargetArt=Abilities\Spells\Undead\DeathandDecay\DeathandDecayDamage.mdl
+
+[BUfa]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
+Bufftip=Ледяная броня
+Buffubertip="Этот воин защищен ледяной броней. Его защита повышена, а скорость перемещения и боя противников, атакующих его в ближнем бою, ненадолго снижается."
+SpecialArt=Abilities\Spells\Undead\FrostArmor\FrostArmorDamage.mdl
+Specialattach=chest
+Spelldetail=1
+TargetArt=Abilities\Spells\Undead\FrostArmor\FrostArmorTarget.mdl
+Targetattach=chest
+
+[BUim]
+Buffart=ReplaceableTextures\CommandButtons\BTNImpale.blp
+Bufftip=Пронзающая Смерть
+Buffubertip=Этот воин подброшен в воздух.
+EffectArt=Abilities\Spells\Undead\Impale\ImpaleHitTarget.mdl
+Effectattach=sprite,first
+TargetArt=Abilities\Spells\Human\StormBolt\StormBoltTarget.mdl
+Targetattach=overhead
+
+[BUsl]
+Buffart=ReplaceableTextures\CommandButtons\BTNSleep.blp
+Bufftip=Сон
+Buffubertip="Этот воин спит. Он не может двигаться, атаковать и пользоваться магией. Если на него нападут, он проснется."
+Effectsoundlooped=CreepSleepSnoreLoop
+TargetArt=Abilities\Spells\Undead\Sleep\SleepTarget.mdl
+Targetattach=overhead
+
+[BUsp]
+Buffart=ReplaceableTextures\CommandButtons\BTNSleep.blp
+TargetArt=Abilities\Spells\Undead\Sleep\SleepSpecialArt.mdl
+
+[BUst]
+Buffart=ReplaceableTextures\CommandButtons\BTNSleep.blp
+TargetArt=Abilities\Spells\Undead\Sleep\SleepSpecialArt.mdl
+
+[BUts]
+Buffart=ReplaceableTextures\CommandButtons\BTNThornShield.blp
+Bufftip=Damage return
+Buffubertip=This unit returns damage to the attackers.
+TargetArt=Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestRight.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountLeft.mdl,Abilities\Spells\Undead\ThornyShield\ThornyShieldTargetChestMountRight.mdl
+Targetattach=chest,left
+Targetattach1=chest,right
+Targetattach2=chest,mount,left
+Targetattach3=chest,mount,right
+Targetattachcount=4
+
+[Babr]
+Buffart=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
+Bufftip=Аура порчи
+Buffubertip=На этого воина действует аура порчи. Его здоровье восстанавливается с повышенной скоростью.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[Bakb]
+Buffart=ReplaceableTextures\CommandButtons\BTNDrum.blp
+Bufftip=Боевой марш
+Buffubertip=Этот воин слышит боевой марш. Сила его атаки увеличена.
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
+Targetattach=origin
+
+[Bam2]
+Buffart=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
+Bufftip=Защитная аура
+Buffubertip="Этот воин окружен защитной аурой. Заклинания противника не причинят ему вреда до тех пор, пока аура не развеется."
+TargetArt=Abilities\Spells\Undead\AntiMagicShell\AntiMagicShell.mdl
+Targetattach=overhead
+
+[Bams]
+Buffart=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
+Bufftip=Защитная аура
+Buffubertip=Этот воин не может служить целью для заклинаний: на него действует защитная аура. Эту ауру можно рассеять.
+TargetArt=Abilities\Spells\Undead\AntiMagicShell\AntiMagicShell.mdl
+Targetattach=overhead
+
+[Bapl]
+Buffart=ReplaceableTextures\CommandButtons\BTNPlagueCloud.blp
+Bufftip=Ядовитое облако
+Buffubertip=Этот воин заражен чумой. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Units\Undead\PlagueCloud\PlagueCloudtarget.mdl
+Targetattach=head
+
+[Barm]
+Buffart=,
+Bufftip=Аура восстановления маны
+Buffubertip=На этого воина действует аура восстановления маны. Его мана восстанавливается с повышенной скоростью.
+Effectsoundlooped=FountainOfLifeLoop
+Spelldetail=1
+TargetArt=Abilities\Spells\Other\ANrl\ANrlTarget.mdl
+
+[Basl]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Slow Aura
+Buffubertip=Этот воин застигнут вихрем торнадо. Скорость его перемещения временно снижена.
+TargetArt=Abilities\Spells\Other\Tornado\Tornado_Target.mdl
+
+[Bbar]
+Buffart=ReplaceableTextures\CommandButtons\BTNBarkskin.blp
+Bufftip=Дубовая кожа
+Buffubertip=Этот воин находится под воздействием заклинания ''Дубовая кожа''. Его защита увеличена.
+TargetArt=Abilities\Spells\NightElf\Barkskin\BarkSkinTarget.mdl
+Targetattach=chest
+
+[Bblo]
+Buffart=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
+Bufftip=Кровожадность
+Buffubertip="На эту боевую единицу наложено заклинание ''Кровожадность''. Скорость ее перемещения и боя выше, чем обычно."
+Spelldetail=1
+TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
+Targetattach=hand,left
+Targetattach1=hand,right
+Targetattachcount=2
+
+[Bbof]
+Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
+Bufftip=Горючая смесь
+Buffubertip=Этот воин горит. Он непрерывно теряет здоровье.
+TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
+
+[Bbsk]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Bufftip=Безумие
+Buffubertip="Этот воин впал в боевое безумие. Его сила атаки повышена, однако при каждом ранении ему наносится дополнительный урон."
+TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl,Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSRight.mdl
+Targetattach=weapon,left
+Targetattach1=weapon,right
+Targetattachcount=2
+
+[Bchd]
+Buffart=ReplaceableTextures\CommandButtons\BTNDizzy.blp
+Bufftip=Головокружение
+Buffubertip="У этого воина кружится голова. Скорость его перемещения и боя ниже, чем обычно."
+TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
+Targetattach=overhead
+
+[Bclf]
+Buffart=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
+Bufftip=Туман
+Buffubertip=Это здание окутано туманом. Оно не может вести огонь.
+
+[Bcmg]
+Buffart=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
+Bufftip=Захват контроля
+Buffubertip=Это существо находится под действием заклинания Захват контроля. Им управляет другой игрок.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[Bcor]
+Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
+Bufftip=Едкое дыхание
+Buffubertip=Это сооружение пострадало от едкого дыхания. Оно постепенно разрушается.
+TargetArt=Abilities\Spells\NightElf\CorrosiveBreath\ChimaeraAcidTargetArt.mdl
+
+[Bcri]
+Buffart=ReplaceableTextures\CommandButtons\BTNCripple.blp
+Bufftip=Увечье
+Buffubertip=This unit is Crippled; its movement speed
+TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
+
+[Bcrs]
+Buffart=ReplaceableTextures\CommandButtons\BTNCurse.blp
+Bufftip=Проклятие
+Buffubertip=Этот воин проклят. В бою он может промахиваться.
+Spelldetail=1
+TargetArt=Abilities\Spells\Undead\Curse\CurseTarget.mdl
+Targetattach=overhead
+
+[Bcsd]
+Buffart=ReplaceableTextures\CommandButtons\BTNColdArrows.blp
+Bufftip=Ледяные стрелы
+Buffubertip=Этот воин ранен ледяной стрелой. Его движения замедлены.
+
+[Bcsi]
+Buffart=,
+
+[Bcy2]
+Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
+Bufftip=Смерч
+Buffubertip=This unit is in a Cyclone; it cannot move
+EffectArt=Abilities\Spells\NightElf\Cyclone\CycloneTarget.mdl
+Effectattach=sprite,first
+Effectsoundlooped=CycloneLoop
+
+[Bcyc]
+Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
+Bufftip=Смерч
+Buffubertip=This unit is in a Cyclone; it cannot move
+EffectArt=Abilities\Spells\NightElf\Cyclone\CycloneTarget.mdl
+Effectsoundlooped=CycloneLoop
+Targetattach=sprite,first
+
+[Bdbb]
+Buffart=,
+
+[Bdbl]
+Buffart=,
+
+[Bdbm]
+Buffart=,
+
+[Bdcb]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Drain\DrainCaster.mdl
+Targetattach=chest
+
+[Bdcl]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Drain\DrainCaster.mdl
+Targetattach=chest
+
+[Bdcm]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Drain\ManaDrainCaster.mdl
+Targetattach=chest
+
+[Bdef]
+Buffart=ReplaceableTextures\CommandButtons\BTNScroll.blp
+Bufftip=Свиток Защиты
+Buffubertip=На этого воина действует заклинание ''Защита''. Его защита временно увеличена.
+Spelldetail=1
+TargetArt=Abilities\Spells\Items\AIda\AIdaTarget.mdl
+Targetattach=overhead
+
+[Bdet]
+Buffart=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
+Bufftip=Dust of Appearance
+Buffubertip=The Dust of Appearance reveals invisible units to enemy players.
+
+[Bdig]
+Buffart=,
+
+[Bdtb]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Drain\DrainTarget.mdl
+Targetattach=chest
+
+[Bdtl]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Drain\DrainTarget.mdl
+Targetattach=chest
+
+[Bdtm]
+Buffart=,
+TargetArt=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
+Targetattach=chest
+
+[Bdvv]
+Buffart=ReplaceableTextures\CommandButtons\BTNDevour.blp
+Bufftip=Проглотить
+Buffubertip="Этот воин проглочен. Он постепенно теряет здоровье, а игрок, контролирующий его, видит все, что находится вокруг проглотившего."
+
+[Beat]
+Buffart=,
+
+[Bena]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
+Bufftip=Ловчий
+Buffubertip=Этот воин пойман сетью. Он прикован к земле и не может двигаться.
+TargetArt=Abilities\Spells\Orc\Ensnare\ensnare_AirTarget.mdl
+Targetattach=chest,mount
+
+[Beng]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
+Bufftip=Ловчий
+Buffubertip=Этот воин пойман сетью. Он прикован к земле и не может двигаться.
+TargetArt=Abilities\Spells\Orc\Ensnare\ensnareTarget.mdl
+
+[Bens]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
+TargetArt=Abilities\Spells\Orc\Ensnare\ensnareTarget.mdl
+Targetattach=origin
+
+[Beye]
+Buffart=ReplaceableTextures\CommandButtons\BTNSentryWard.blp
+Bufftip=Невидимый страж
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[Bfae]
+Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
+Bufftip=Волшебный огонь
+Buffubertip="На этого воина действует заклинание ''Волшебный огонь''. Его защита уменьшена, а все, что находится в его поле зрения, видит противник."
+Spelldetail=1
+TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
+Targetattach=head
+
+[Bfre]
+Buffart=,
+
+[Bfro]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
+Bufftip=Замедление
+Buffubertip="Этот воин перемещается медленнее, чем обычно."
+TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
+
+[Bfrz]
+Buffart=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
+Bufftip=Ледяное дыхание
+Buffubertip="Это здание заморожено. Его невозможно ни использовать, ни ремонтировать."
+TargetArt=Abilities\Spells\Undead\FreezingBreath\FreezingBreathTargetArt.mdl
+Targetattach=origin
+
+[Bfzy]
+Buffart=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
+Bufftip=Ярость
+Buffubertip="Этот воин разъярен. Скорость его перемещения и боя выше, чем обычно."
+Spelldetail=1
+TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
+Targetattach=hand,left
+Targetattach1=hand,right
+Targetattachcount=2
+
+[Bgra]
+Buffart=,
+
+[Bhea]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Bufftip=Лечение
+Buffubertip=Этот воин лечится. Его запас здоровья постепенно восстанавливается.
+Spelldetail=1
+
+[Bhwd]
+Buffart=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
+Bufftip=Дух-целитель
+Buffubertip="Этот дух восстанавливает здоровье дружественных войск, находящихся поблизости."
+
+[Binf]
+Buffart=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
+Bufftip=Духовное пламя
+Buffubertip=Этот воин находится под воздействием заклинания ''Духовное пламя''. Его защита и сила атаки значительно выше нормы.
+Spelldetail=1
+TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
+Targetattach=overhead
+Targetattachcount=1
+
+[Binv]
+Buffart=ReplaceableTextures\CommandButtons\BTNInvisibility.blp
+Bufftip=Невидимость
+Buffubertip="Этот воин невидим для противников. Вступив в бой или применив заклинание, он вновь станет видимым."
+
+[Bivs]
+Buffart=,
+
+[Bliq]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNLiquidFire.blp
+Effectsoundlooped=LiquidFireLoop
+TargetArt=Abilities\Spells\Orc\LiquidFire\Liquidfire.mdl
+
+[Blsa]
+Buffart=,
+
+[Blsh]
+Buffart=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
+Bufftip=Щит молний
+Buffubertip="Этот воин окружен электрическим полем. Дружественные и враждебные войска, оказавшиеся рядом с ним, получат урон."
+SpecialArt=Abilities\Spells\Orc\LightningShield\LightningShieldBuff.mdl
+TargetArt=Abilities\Spells\Orc\LightningShield\LightningShieldTarget.mdl
+Targetattach=origin
+
+[Bmec]
+Buffart=,
+Bufftip=Заводной зверь
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[Bmfa]
+Buffart=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
+Bufftip=Заклинание Крови
+Buffubertip="Этот воин применил Заклинание Крови. Любой противник, воспользовавшийся магией вблизи от него, получит урон."
+Missileart=Abilities\Spells\Human\ManaFlare\ManaFlareMissile.mdl
+MissileHoming=1
+Missilespeed=1000
+SpecialArt=Abilities\Spells\Human\ManaFlare\ManaFlareBoltImpact.mdl
+TargetArt=Abilities\Spells\Human\ManaFlare\ManaFlareTarget.mdl
+Targetattach=overhead
+
+[Bmfl]
+Buffart=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
+Bufftip=Заклинание Крови
+Buffubertip="Этот воин применил Заклинание Крови. Любой противник, воспользовавшийся магией вблизи от него, получит урон."
+Effectsoundlooped=ManaFlareLoop
+LightningEffect=MFPB
+TargetArt=Abilities\Spells\Human\ManaFlare\ManaFlareBase.mdl
+Targetattach=overhead
+
+[Bmil]
+Buffart=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
+Bufftip=Ополчение
+Buffubertip="Этот работник вступил в ополчение. Его скорость боя, защита, сила атаки и скорость перемещения ощутимо возросли."
+
+[Bmlc]
+Buffart=,
+Effectsoundlooped=AerialShacklesLoop
+
+[Bmlt]
+Buffart=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
+Bufftip=Огненное лассо
+Buffubertip="На этого воина действует заклинание ''Огненное лассо''. Он не может ни перемещаться, ни атаковать, и непрерывно теряет здоровье."
+TargetArt=Abilities\Spells\Human\AerialShackles\AerialShacklesTarget.mdl
+Targetattach=chest,mount
+
+[Boar]
+Buffart=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
+Bufftip=Healing Aura
+Buffubertip=Ускоренное восстановление здоровья.
+Effectsoundlooped=FountainOfLifeLoop
+Spelldetail=2
+TargetArt=Abilities\Spells\Other\ANrm\ANrmTarget.mdl
+Targetattach=origin
+Targetattachcount=1
+
+[Bphx]
+Buffart=,
+Bufftip=Феникс
+Buffubertip=Феникс проявляет свое могущество.
+
+[Bpig]
+Buffart=,
+SpecialArt=Abilities\Spells\Other\ImmolationRed\ImmolationRedDamage.mdl
+Specialattach=chest
+TargetArt=Abilities\Spells\Other\ImmolationRed\ImmolationRedTarget.mdl
+Targetattach=chest
+
+[Bplg]
+Buffart=,
+
+[Bply]
+Buffart=ReplaceableTextures\CommandButtons\BTNPolymorph.blp
+Bufftip=Полиморф
+Buffubertip=Этот воин превращен в овцу заклинанием ''Полиморф''.
+EffectArt=Abilities\Spells\Human\Polymorph\PolyMorphDoneGround.mdl
+
+[Bpoc]
+Buffart=,
+TargetArt=Abilities\Spells\Undead\Possession\PossessionCaster.mdl
+Targetattach=overhead
+
+[Bpoi]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=Этот воин отравлен. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[Bpos]
+Buffart=ReplaceableTextures\CommandButtons\BTNPossession.blp
+Bufftip=Одержимость
+Buffubertip=Этот воин одержим.
+TargetArt=Abilities\Spells\Undead\Possession\PossessionTarget.mdl
+Targetattach=overhead
+
+[Bprg]
+Buffart=ReplaceableTextures\CommandButtons\BTNPurge.blp
+Bufftip=Очищение
+Buffubertip="Этот воин подвергся Очищению. На него не наложено никаких заклинаний, а скорость его перемещения ненадолго снизилась."
+TargetArt=Abilities\Spells\Orc\Purge\PurgeBuffTarget.mdl
+Targetattach=origin
+
+[Bpsd]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Bufftip=Яд
+Buffubertip=Этот воин отравлен. Он постепенно теряет здоровье.
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[Bpsh]
+Buffart=ReplaceableTextures\CommandButtons\BTNPhaseShift.blp
+Bufftip=Бегство в астрал
+Buffubertip=Этот воин находится в мире духов. Он неуязвим для обычного оружия.
+SpecialArt=Abilities\Spells\NightElf\FaerieDragonInvis\FaerieDragon_Invis.mdl
+
+[Bpsi]
+Buffart=,
+
+[Bpxf]
+Buffart=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
+Bufftip=Пламя феникса
+Buffubertip=Этот воин горит. Он непрерывно теряет здоровье.
+TargetArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
+
+[Brai]
+Buffart=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
+Bufftip=Скелет
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[Brej]
+Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
+Bufftip=Омоложение
+Buffubertip=На этого воина действует заклинание ''Омоложение''. Запас его здоровья постепенно восстанавливается.
+TargetArt=Abilities\Spells\NightElf\Rejuvenation\RejuvenationTarget.mdl
+Targetattach=chest
+
+[Broa]
+Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
+Bufftip=Рев
+Buffubertip=Этот воин издал рев. Его сила атаки увеличена.
+Spelldetail=1
+TargetArt=Abilities\Spells\NightElf\BattleRoar\RoarTarget.mdl
+Targetattach=overhead
+
+[Brpb]
+Buffart=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
+Bufftip=Восстановить
+Buffubertip=Запас маны этого воина частично восстановлен.
+
+[Brpl]
+Buffart=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
+Bufftip=Власть Порчи
+Buffubertip=Запас здоровья этого воина частично восстановлен.
+
+[Brpm]
+Buffart=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
+Bufftip=Восстановление маны
+Buffubertip=Запас маны этого воина частично восстановлен.
+
+[Bsha]
+Buffart=,
+
+[Bshs]
+Buffart=ReplaceableTextures\CommandButtons\BTNWandOfShadowSight.blp
+Bufftip=Жезл Лазутчика
+Buffubertip="Этот воин подвергся воздействию жезла Лазутчика. Все, что попадает в его поле зрения, становится видимым для противника."
+
+[Bslo]
+Buffart=ReplaceableTextures\CommandButtons\BTNSlow.blp
+Bufftip=Замедление
+Buffubertip=Этот воин замедлен. Скорость его перемещения и боя значительно ниже нормы.
+Spelldetail=1
+TargetArt=Abilities\Spells\Human\slow\slowtarget.mdl
+
+[Bspa]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpider.blp
+Bufftip=Паучок
+TargetArt=Abilities\Weapons\CryptFiendMissile\CryptFiendMissileTarget.mdl
+Targetattach=origin
+
+[Bspe]
+Buffart=ReplaceableTextures\CommandButtons\BTNBoots.blp
+Bufftip=Ускорение
+Buffubertip="Этот воин перемещается быстрее, чем обычно."
+TargetArt=Abilities\Spells\Items\AIsp\SpeedTarget.mdl
+
+[Bspl]
+Buffart=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
+Bufftip=Эмпатия
+Buffubertip="Часть урона, нанесенного этому воину, будет распределена между войсками, связанными с ним эмпатическими узами."
+TargetArt=Abilities\Spells\Orc\SpiritLink\SpiritLinkTarget.mdl
+Targetattach=chest
+
+[Bspo]
+Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
+Bufftip=Яд
+Buffubertip="Этот воин отравлен. Он постепенно теряет здоровье, а его движения замедлены."
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[Bssd]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNSlowPoison.blp
+Bufftip=Яд
+Buffubertip="Этот воин отравлен. Он постепенно теряет здоровье, а его движения замедлены."
+Spelldetail=2
+TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
+
+[Bssi]
+Buffart=,
+
+[Bsta]
+Buffart=,
+
+[Bstt]
+Buffart=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
+Bufftip=Колдовская ловушка 
+Buffubertip=Эта ловушка оглушает попавших в нее наземных противников.
+
+[Btdg]
+Buffart=,
+
+[Btlf]
+Buffart=ReplaceableTextures\CommandButtons\BTNAcorn.blp
+Bufftip=Время жизни
+Buffubertip="Существа, вызванные с помощью магии, получают урон при рассеивании заклинаний."
+
+[Btrv]
+Buffart=,
+
+[Btsa]
+Buffart=,
+
+[Btsp]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Bufftip=Вихрь торнадо
+Buffubertip=Этот воин поднят в воздух вихрем торнадо.
+EffectArt=Abilities\Spells\Other\Tornado\TornadoElementalSmall.mdl
+Effectattach=sprite,first
+
+[Buhf]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNCommand.blp
+Bufftip=Frenzy
+Buffubertip=This unit has Frenzy; its attack rate is increased
+TargetArt=Abilities\Spells\Undead\UnholyFrenzy\UnholyFrenzyTarget.mdl
+Targetattach=overhead
+
+[Bult]
+Buffart=,
+
+[Buns]
+Buffart=ReplaceableTextures\CommandButtons\BTNUnsummonBuilding.blp
+Bufftip=Рассеять здание
+Effectsoundlooped=AcolyteUnsummonLoop
+TargetArt=Abilities\Spells\Undead\Unsummon\UnsummonTarget.mdl
+
+[Bvng]
+Buffart=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
+Bufftip=Зов Возмездия
+Buffubertip=Здесь побывал дух Возмездия.
+EffectArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
+
+[Bvul]
+Buffart=ReplaceableTextures\CommandButtons\BTNInvulnerable.blp
+Bufftip=Неуязвимость
+Buffubertip=Этот воин неуязвим. Он не получает урона в бою и не может служить целью для заклинаний.
+TargetArt=Abilities\Spells\Human\DivineShield\DivineShieldTarget.mdl
+Targetattach=origin
+
+[Bwea]
+Buffart=ReplaceableTextures\CommandButtons\BTNWeb.blp
+Bufftip=Паутина
+Buffubertip=Этот воин оплетен паутиной. Он прикован к земле и не может двигаться.
+TargetArt=Abilities\Spells\Undead\Web\Web_AirTarget.mdl
+Targetattach=chest,mount
+
+[Bweb]
+Buffart=ReplaceableTextures\CommandButtons\BTNWeb.blp
+Bufftip=Паутина
+Buffubertip=Этот воин оплетен паутиной. Он прикован к земле и не может двигаться.
+TargetArt=Abilities\Spells\Undead\Web\WebTarget.mdl
+Targetattach=origin
+
+[X003]
+Buffart=,
+
+[X1bz]
+Buffart=,
+EffectArt=Abilities\Spells\Human\Blizzard\BlizzardTarget.mdl
+Effectsound=BlizzardWave
+Effectsoundlooped=BlizzardLoop
+
+[X1sf]
+Buffart=,
+EffectArt=Abilities\Spells\NightElf\Starfall\StarfallCaster.mdl
+
+[X1tq]
+Buffart=,
+EffectArt=Abilities\Spells\NightElf\Tranquility\Tranquility.mdl
+Effectsoundlooped=TranquilityLoop
+
+[XErc]
+Buffart=,
+
+[XErf]
+Buffart=,
+EffectArt=Abilities\Spells\Demon\RainOfFire\RainOfFireTarget.mdl
+Effectsound=RainOfFireWave
+Effectsoundlooped=RainOfFireLoop
+
+[XEsf]
+Buffart=,
+EffectArt=Abilities\Spells\NightElf\Starfall\StarfallCaster.mdl
+
+[XEtq]
+Buffart=,
+EffectArt=Abilities\Spells\NightElf\Tranquility\Tranquility.mdl
+Effectsoundlooped=TranquilityLoop
+
+[XHbz]
+Buffart=,
+EffectArt=Abilities\Spells\Human\Blizzard\BlizzardTarget.mdl
+Effectsound=BlizzardWave
+Effectsoundlooped=BlizzardLoop
+
+[XHfs]
+Buffart=,
+EffectArt=Abilities\Spells\Human\FlameStrike\FlameStrikeEmbers.mdl
+Effectsoundlooped=HumanFireLarge
+
+[XIct]
+Buffart=,
+
+[XNcs]
+Buffart=,
+
+[XNhs]
+Buffart=,
+SpecialArt=Abilities\Spells\Human\Heal\HealTarget.mdl
+
+[XNmo]
+Buffart=,
+EffectArt=Abilities\Spells\Other\Monsoon\MonsoonRain.mdl
+Effectsoundlooped=MonsoonLoop
+
+[XNvc]
+Buffart=,
+Effectsoundlooped=VolcanoLoop
+Missilearc=0.8
+Missileart=Abilities\Spells\Other\Volcano\VolcanoMissile.mdl
+MissileHoming=1
+Missilespeed=400
+SpecialArt=Abilities\Spells\Other\Volcano\VolcanoDeath.mdl
+
+[XOeq]
+Buffart=,
+EffectArt=Abilities\Spells\Orc\EarthQuake\EarthQuakeTarget.mdl
+Effectsoundlooped=EarthquakeLoop
+
+[XOre]
+Buffart=,
+
+[XUdd]
+Buffart=,
+EffectArt=Abilities\Spells\Undead\DeathandDecay\DeathandDecayTarget.mdl
+Effectsoundlooped=DeathAndDecayLoop
+
+[Xbdt]
+Buffart=,
+EffectArt=Abilities\Spells\Other\Andt\Andt.mdl
+
+[Xbli]
+Buffart=,
+
+[Xbof]
+Buffart=,
+EffectArt=Abilities\Spells\Human\FlameStrike\FlameStrikeEmbers.mdl
+Effectsoundlooped=HumanFireLarge
+
+[Xclf]
+Buffart=,
+EffectArt=Abilities\Spells\Human\CloudOfFog\CloudOfFog.mdl
+Effectsoundlooped=CloudOfFogLoop
+
+[Xdis]
+Buffart=,
+
+[Xesn]
+Buffart=,
+TargetArt=Units\NightElf\Owl\Owl.mdl
+Targetattach=overhead
+
+[Xfhl]
+Buffart=,
+Effectsoundlooped=HumanFireLarge
+TargetArt=Environment\LargeBuildingFire\LargeBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire1.mdl,Environment\SmallBuildingFire\SmallBuildingFire0.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fifth
+Targetattach3=sprite,third
+Targetattach4=sprite,fourth
+Targetattach5=sprite,sixth
+Targetattachcount=6
+
+[Xfhm]
+Buffart=,
+Effectsoundlooped=HumanFireMedium
+TargetArt=Environment\LargeBuildingFire\LargeBuildingFire2.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\SmallBuildingFire\SmallBuildingFire2.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fourth
+Targetattach3=sprite,fifth
+Targetattachcount=4
+
+[Xfhs]
+Buffart=,
+Effectsoundlooped=HumanFireSmall
+TargetArt=Environment\SmallBuildingFire\SmallBuildingFire2.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,fourth
+Targetattachcount=2
+
+[Xfla]
+Buffart=,
+EffectArt=Abilities\Spells\Human\Flare\FlareTarget.mdl
+
+[Xfnl]
+Buffart=,
+Effectsoundlooped=NightElfFireLarge
+TargetArt=Environment\NightElfBuildingFire\ElfLargeBuildingFire1.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire0.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire0.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire1.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire2.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire0.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fifth
+Targetattach3=sprite,third
+Targetattach4=sprite,fourth
+Targetattach5=sprite,sixth
+Targetattachcount=6
+
+[Xfnm]
+Buffart=,
+Effectsoundlooped=NightElfFireMedium
+TargetArt=Environment\NightElfBuildingFire\ElfLargeBuildingFire2.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire1.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire0.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire2.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fourth
+Targetattach3=sprite,fifth
+Targetattachcount=4
+
+[Xfns]
+Buffart=,
+Effectsoundlooped=NightElfFireSmall
+TargetArt=Environment\NightElfBuildingFire\ElfSmallBuildingFire2.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire1.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,fourth
+Targetattachcount=2
+
+[Xfol]
+Buffart=,
+Effectsoundlooped=HumanFireLarge
+TargetArt=Environment\LargeBuildingFire\LargeBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire1.mdl,Environment\SmallBuildingFire\SmallBuildingFire0.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fifth
+Targetattach3=sprite,third
+Targetattach4=sprite,fourth
+Targetattach5=sprite,sixth
+Targetattachcount=6
+
+[Xfom]
+Buffart=,
+Effectsoundlooped=HumanFireMedium
+TargetArt=Environment\LargeBuildingFire\LargeBuildingFire2.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\SmallBuildingFire\SmallBuildingFire2.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fourth
+Targetattach3=sprite,fifth
+Targetattachcount=4
+
+[Xfos]
+Buffart=,
+Effectsoundlooped=HumanFireSmall
+TargetArt=Environment\SmallBuildingFire\SmallBuildingFire2.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,fourth
+Targetattachcount=2
+
+[Xful]
+Buffart=,
+Effectsoundlooped=UndeadFireLarge
+TargetArt=Environment\UndeadBuildingFire\UndeadLargeBuildingFire1.mdl,Environment\UndeadBuildingFire\UndeadLargeBuildingFire0.mdl,Environment\UndeadBuildingFire\UndeadLargeBuildingFire0.mdl,Environment\UndeadBuildingFire\UndeadSmallBuildingFire1.mdl,Environment\UndeadBuildingFire\UndeadLargeBuildingFire2.mdl,Environment\UndeadBuildingFire\UndeadSmallBuildingFire0.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fifth
+Targetattach3=sprite,third
+Targetattach4=sprite,fourth
+Targetattach5=sprite,sixth
+Targetattachcount=6
+
+[Xfum]
+Buffart=,
+Effectsoundlooped=UndeadFireMedium
+TargetArt=Environment\UndeadBuildingFire\UndeadLargeBuildingFire2.mdl,Environment\UndeadBuildingFire\UndeadSmallBuildingFire1.mdl,Environment\UndeadBuildingFire\UndeadLargeBuildingFire0.mdl,Environment\UndeadBuildingFire\UndeadSmallBuildingFire2.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,second
+Targetattach2=sprite,fourth
+Targetattach3=sprite,fifth
+Targetattachcount=4
+
+[Xfus]
+Buffart=,
+Effectsoundlooped=UndeadFireSmall
+TargetArt=Environment\UndeadBuildingFire\UndeadSmallBuildingFire2.mdl,Environment\UndeadBuildingFire\UndeadSmallBuildingFire1.mdl
+Targetattach=sprite,first
+Targetattach1=sprite,fourth
+Targetattachcount=2
